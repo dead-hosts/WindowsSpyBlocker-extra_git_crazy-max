@@ -1,0 +1,32 @@
+env:
+  global:
+    - secure: luc2Uu/WRgv8ONodfyJZImOCP6koaHUgjVa6bqcBvlrsAd+O0qw+/UPQIRE/O2PmSIYdDx/jtFSD3FkgcMBAsJ7OB6N264nwUXozlmCfFchHl8LF0vNmCYjVe9DO61NftXOH2LqnMrZJSnBduLsuHz+jJxutQ2ExltAQdoLF2redJIJ1Kw6bumpcbI+mA8+DN1t8oLW24WMypXeZxXoefoDUk2F1qqogDzjjOd63Hbc8FWBCPHQAqbN6ENPkTqW6i0mBfNmJeHGPZiP/fhlFVF1yTjZHUECeA/UBshc6GsEqXUTGLDbbWR7sfc3AolYM3iyQVicKaCi0+wCVfNrxn/XSWipkgHyVA9U/E5oQUIYDNC9c32HBKAtkUUJ8FpOBNYWgEJn1QAo7SGMOn+rGSgRL9dQwPE0npLMlLv/WltxHcoASq0d5y+og2/prhBOpwxM1YXa7kUuFsloEJPvd74/llp6sZmbtN9EeTrihc8fKP5CiYswLEhYefSOMp1oT1vKfvAGYeUd8gDLkNN1j9HFWgUWW4QCLvopJpLfHA9/q8PIlE06nLJZWkBTEF6XfDgsakSUKtZVm8VYzcxQUX7V0cxFlSPZRrx3IQZsoBfcfaFs1xTn1YCDql58GzjfrJedRttGScuo8jWnAP+Vlf+SXlv/CD4eF0kJtbvEBV60=
+    - GIT_NAME: Travis CI
+    - GIT_EMAIL: dead-hosts@funilrys.com
+    - TRAVIS_REPO_SLUG: dead-hosts/WindowsSpyBlocker-extra_git_crazy-max
+    - GIT_BRANCH: master
+
+language: python
+
+python:
+  - "3.6"
+
+matrix:
+  fast_finish: true
+
+cache:
+  - apt
+  - pip
+
+sudo: required
+
+install:
+  - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble
+  - sudo apt-get -y install dos2unix
+
+script:
+  - python3 ./update_me.py
+
+notifications:
+  on_success:   change
+  on_failure:   always

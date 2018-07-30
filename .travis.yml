@@ -1,6 +1,6 @@
 env:
   global:
-    - secure: LCSu/KgTgfSJI6sPB9IuQKwoN1wDtlvKpp+Ylvbofh6E1Z8UfhmNevyTfPkS1YJEaSifu3mHqqiIt5IriQHYHVimiw+ozN0D2fGcj25P8YRULBd4MmHyXEDtJ4DMJzl4a9cluFyVjpJXcDyVDYeJCHh9/T99slUr1Ivk+o2HzzFpagCZz2kU7FQOfRYw+CEqJB/TLpYpamyWe0Yos2MAEIv16x+vMRLlCr9e0j74U20jFDtEagBHJNOCbhvxSFRz61K3/96xIRPS+1lMHJaYL3BcejsLbKcOkouwxVPBHQ9SiVrs/9zvzAjq0AETaqVdboyZSdVVtCC1SoeB+qNhI5Cd8Dwv+Qz2O44UqDGRtvTCSOwT8lau83Ghc/lkoRZUy92ehaukDNBackmO6mzQdOm9B0fxPHbOgdu5JV/ftYls9UX/SXsqAF+U17+NUKiUP0ibF8an5k2RmjMRajBy7b0RxhU3eAaanxIV0hplClYRlDOzJBm3CVyS++rcSqYeSW8jm22wzA9QqWGLRL6fmgBDZVqgjQ2BoglyRrkc5DR/0CxRf4vy4rBXkukltR+3+K36HAL7aXei1W4gxWv9W9d24JClfc6cqR4Ay5TbVPdw+xTUXCVtr8ui3qxIv2usl0f3Yc38Kq4wrWwDqYh4J4k6+hh7vbj1kBq7EoMzOOQ=
+    - secure: z+r9ZkGjaZPqT+nMFzjXdiCnWM5j1Q2lFavPndH50zYUBP+AGiwSXewV1yK70jFlaWBUvqLeisY1uouoDHaJdlLfi1/wwqoIkBLgsVSjksPQMrDac/Pz0kcxsw92RQy2rLiFj4CAaWZqAJVguedPiC+LCO4AfeZ71wpOfcF3+Ub2cJb6OC2EZBldfqQVrl5TE8UOhRdS8DAkGmNG757JTDBXc4zdNqO7+pd/JV57OSz0jodX07xYVLTbuIRx4OCGVG/Ep1pkQ8Hr4vMdh2B052+cS4lTR85nAhhRNOxKDxHdnBby7MxLAJfQ5NpNaoq6HtcmqiUAHMxI1B/AoB8/rJzwTuf5IW47h6/LB3j3IqHCxoB7g5WWbnlzrpBKV3tUY8IsoOCDrxZ1tBEO8QrKfqsl5H+X+cy+fKjLEZmdesBDBDaVkNbkLN36AjSVv502HUVQiDAIs2PaJBvV5uhXvS9LXrXHKpOH4dE/rXmBW/g06qy5JGrO2nJoBSY+NmEW9QhYYL7smQlx05Zyx+dqvDTxa+oNgGx9GmEi2mlZYWaFK5rKHCRrAFcgIJxzcYb7zELhWqlg4h5X2YuUk0+oDR9zLEwICGgFQjMZ7j5ZGRVhsRCFuVy/WeY4Nyn43puYLWtTwN+AsbRCS+hBDFtvuMEin/r5yYZK7EI+GuEieVE=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/WindowsSpyBlocker-extra_git_crazy-max
@@ -15,14 +15,17 @@ matrix:
   fast_finish: true
 
 cache:
-  - apt
   - pip
 
 sudo: required
 
+addons:
+  apt:
+    packages:
+      - dos2unix
+
 install:
   - pip3 install pyfunceble-dev
-  - sudo apt-get -y install dos2unix
 
 script:
   - python3 ./update_me.py

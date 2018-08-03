@@ -2,8 +2,14 @@
 # Date of generation: Fri 03 Aug 19:08:07 UTC 2018 
 
 api.bing.com 
+az361816.vo.msecnd.net 
+blob.weather.microsoft.com 
 clientconfig.passport.net 
+crl.microsoft.com 
+dmd.metaservices.microsoft.com 
+finance.services.appex.bing.com 
 iecvlist.microsoft.com 
+img-s-msn-com.akamaized.net 
 licensing.mp.microsoft.com 
 login.live.com 
 officeclient.microsoft.com 
@@ -12,6 +18,14 @@ r20swj13mr.microsoft.com
 s0.2mdn.net 
 service.weather.microsoft.com 
 static.2mdn.net 
+storage.live.com 
+store-images.s-microsoft.com 
 tile-service.weather.microsoft.com 
+time.windows.com 
+win10-trt.msedge.net 
+wscont.apps.microsoft.com 
+wscont.apps.microsoft.com.edgesuite.net 
+wscont1.apps.microsoft.com 
+wscont2.apps.microsoft.com 
 www.msftconnecttest.com 
 www.msftncsi.com 

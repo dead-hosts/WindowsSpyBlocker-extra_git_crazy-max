@@ -1,25 +1,51 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 13 Aug 18:08:50 UTC 2018 
+# Date of generation: Wed 15 Aug 10:08:22 UTC 2018 
 
+0.0.0.0 a-0001.a-msedge.net
+0.0.0.0 a-0001.dc-msedge.net
+0.0.0.0 a-0002.a-msedge.net
+0.0.0.0 a-0003.a-msedge.net
+0.0.0.0 a-0003.dc-msedge.net
+0.0.0.0 a-0004.a-msedge.net
+0.0.0.0 a-0005.a-msedge.net
+0.0.0.0 a-0006.a-msedge.net
+0.0.0.0 a-0007.a-msedge.net
+0.0.0.0 a-0008.a-msedge.net
+0.0.0.0 a-0009.a-msedge.net
+0.0.0.0 a-0010.a-msedge.net
+0.0.0.0 a-0011.a-msedge.net
+0.0.0.0 a-0012.a-msedge.net
 0.0.0.0 api.bing.com
+0.0.0.0 auth.gfx.ms
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 blob.weather.microsoft.com
+0.0.0.0 c-0001.dc-msedge.net
+0.0.0.0 client-office365-tas.msedge.net
 0.0.0.0 clientconfig.passport.net
+0.0.0.0 config.edge.skype.com
 0.0.0.0 crl.microsoft.com
 0.0.0.0 dmd.metaservices.microsoft.com
+0.0.0.0 dmd.metaservices.microsoft.com.akadns.net
+0.0.0.0 evoke-windowsservices-tas.msedge.net
 0.0.0.0 finance.services.appex.bing.com
+0.0.0.0 fs.microsoft.com
 0.0.0.0 iecvlist.microsoft.com
+0.0.0.0 img-prod-cms-rt-microsoft-com.akamaized.net
 0.0.0.0 img-s-msn-com.akamaized.net
 0.0.0.0 img.stb.s-msn.com
 0.0.0.0 licensing.mp.microsoft.com
 0.0.0.0 login.live.com
+0.0.0.0 login.msa.akadns6.net
+0.0.0.0 ocos-office365-s2s.msedge.net
 0.0.0.0 officeclient.microsoft.com
 0.0.0.0 pti.store.microsoft.com
 0.0.0.0 r20swj13mr.microsoft.com
+0.0.0.0 ris.api.iris.microsoft.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 service.weather.microsoft.com
 0.0.0.0 static.2mdn.net
 0.0.0.0 storage.live.com
+0.0.0.0 store-images.microsoft.com
 0.0.0.0 store-images.s-microsoft.com
 0.0.0.0 tile-service.weather.microsoft.com
 0.0.0.0 time.windows.com

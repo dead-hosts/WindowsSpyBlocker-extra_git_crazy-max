@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Fri 17 Aug 10:08:54 UTC 2018 
+# Date of generation: Sat 18 Aug 10:08:39 UTC 2018 
 
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-0001.dc-msedge.net
@@ -38,6 +38,7 @@
 0.0.0.0 login.msa.akadns6.net
 0.0.0.0 ocos-office365-s2s.msedge.net
 0.0.0.0 officeclient.microsoft.com
+0.0.0.0 pti.store.microsoft.com
 0.0.0.0 r20swj13mr.microsoft.com
 0.0.0.0 ris.api.iris.microsoft.com
 0.0.0.0 s0.2mdn.net

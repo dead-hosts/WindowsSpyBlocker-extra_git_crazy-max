@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 10 Sep 11:09:13 UTC 2018 
+# Date of generation: Tue 11 Sep 22:09:56 UTC 2018 
 
 a-0001.a-msedge.net
 a-0001.dc-msedge.net
@@ -15,9 +15,9 @@ a-0009.a-msedge.net
 a-0010.a-msedge.net
 a-0011.a-msedge.net
 a-0012.a-msedge.net
-a-msedge.net
-activation-v2.sls.microsoft.com
 activation.sls.microsoft.com
+activation-v2.sls.microsoft.com
+a-msedge.net
 answers.microsoft.com
 api.bing.com
 appex-rf.msn.com
@@ -34,9 +34,9 @@ cdn.content.prod.cms.msn.com
 cdn.onenote.net
 choice.microsoft.com
 choice.microsoft.com.nsatc.net
+clientconfig.passport.net
 client-office365-tas.msedge.net
 client-s.gateway.messenger.live.com
-clientconfig.passport.net
 co2.sls.microsoft.com
 config.edge.skype.com
 crl.microsoft.com
@@ -64,9 +64,9 @@ insiderservice.microsoft.com
 licensing.mp.microsoft.com
 login.live.com
 login.msa.akadns6.net
-m.hotmail.com
 maps.windows.com
 mediaredirect.microsoft.com
+m.hotmail.com
 msftncsi.com
 next-services.apps.microsoft.com
 ocos-office365-s2s.msedge.net
@@ -79,38 +79,38 @@ query.prod.cms.rt.microsoft.com
 r20swj13mr.microsoft.com
 register.cdpcs.microsoft.com
 ris.api.iris.microsoft.com
-s.gateway.messenger.live.com
 s0.2mdn.net
 search.msn.com
 service.weather.microsoft.com
 settings-ssl.xboxlive.com
+s.gateway.messenger.live.com
 share.microsoft.com
 static.2mdn.net
 storage.live.com
-store-images.microsoft.com
-store-images.s-microsoft.com
 storecatalogrevocation.storequality.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
+store-images.microsoft.com
+store-images.s-microsoft.com
 support.microsoft.com
-t.urs.microsoft.com
 tile-service.weather.microsoft.com
 time.windows.com
 tk2.plt.msn.com
+t.urs.microsoft.com
 uhf.microsoft.com
 ui.skype.com
 urs.microsoft.com
 urs.smartscreen.microsoft.com
-validation-v2.sls.microsoft.com
 validation.sls.microsoft.com
-w.apprep.smartscreen.microsoft.com
+validation-v2.sls.microsoft.com
 wallet.microsoft.com
-wdcp.microsoft.com
+w.apprep.smartscreen.microsoft.com
 wdcpalt.microsoft.com
+wdcp.microsoft.com
 win10-trt.msedge.net
-wscont.apps.microsoft.com
-wscont.apps.microsoft.com.edgesuite.net
 wscont1.apps.microsoft.com
 wscont2.apps.microsoft.com
+wscont.apps.microsoft.com
+wscont.apps.microsoft.com.edgesuite.net
 www.msftconnecttest.com
 www.msftncsi.com
 www.windowssearch.com

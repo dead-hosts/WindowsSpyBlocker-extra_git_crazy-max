@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 10 Sep 11:09:13 UTC 2018 
+# Date of generation: Tue 11 Sep 22:09:56 UTC 2018 
 
 Domain                                                                                               Status      HTTP Code 
 a-0001.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
@@ -16,9 +16,9 @@ a-0009.a-msedge.net                                                             
 a-0010.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
 a-0011.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
 a-0012.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
-a-msedge.net                                                                                         ACTIVE      WHOIS     
-activation-v2.sls.microsoft.com                                                                      ACTIVE      NSLOOKUP  
 activation.sls.microsoft.com                                                                         ACTIVE      NSLOOKUP  
+activation-v2.sls.microsoft.com                                                                      ACTIVE      NSLOOKUP  
+a-msedge.net                                                                                         ACTIVE      WHOIS     
 answers.microsoft.com                                                                                ACTIVE      NSLOOKUP  
 api.bing.com                                                                                         ACTIVE      NSLOOKUP  
 appex-rf.msn.com                                                                                     ACTIVE      NSLOOKUP  
@@ -35,9 +35,9 @@ cdn.content.prod.cms.msn.com                                                    
 cdn.onenote.net                                                                                      ACTIVE      NSLOOKUP  
 choice.microsoft.com                                                                                 ACTIVE      NSLOOKUP  
 choice.microsoft.com.nsatc.net                                                                       ACTIVE      NSLOOKUP  
+clientconfig.passport.net                                                                            ACTIVE      NSLOOKUP  
 client-office365-tas.msedge.net                                                                      ACTIVE      NSLOOKUP  
 client-s.gateway.messenger.live.com                                                                  ACTIVE      NSLOOKUP  
-clientconfig.passport.net                                                                            ACTIVE      NSLOOKUP  
 co2.sls.microsoft.com                                                                                ACTIVE      NSLOOKUP  
 config.edge.skype.com                                                                                ACTIVE      NSLOOKUP  
 crl.microsoft.com                                                                                    ACTIVE      NSLOOKUP  
@@ -65,9 +65,9 @@ insiderservice.microsoft.com                                                    
 licensing.mp.microsoft.com                                                                           ACTIVE      NSLOOKUP  
 login.live.com                                                                                       ACTIVE      NSLOOKUP  
 login.msa.akadns6.net                                                                                ACTIVE      NSLOOKUP  
-m.hotmail.com                                                                                        ACTIVE      NSLOOKUP  
 maps.windows.com                                                                                     ACTIVE      NSLOOKUP  
 mediaredirect.microsoft.com                                                                          ACTIVE      NSLOOKUP  
+m.hotmail.com                                                                                        ACTIVE      NSLOOKUP  
 msftncsi.com                                                                                         ACTIVE      WHOIS     
 next-services.apps.microsoft.com                                                                     ACTIVE      NSLOOKUP  
 ocos-office365-s2s.msedge.net                                                                        ACTIVE      NSLOOKUP  
@@ -80,38 +80,38 @@ query.prod.cms.rt.microsoft.com                                                 
 r20swj13mr.microsoft.com                                                                             ACTIVE      NSLOOKUP  
 register.cdpcs.microsoft.com                                                                         ACTIVE      NSLOOKUP  
 ris.api.iris.microsoft.com                                                                           ACTIVE      NSLOOKUP  
-s.gateway.messenger.live.com                                                                         ACTIVE      NSLOOKUP  
 s0.2mdn.net                                                                                          ACTIVE      NSLOOKUP  
 search.msn.com                                                                                       ACTIVE      NSLOOKUP  
 service.weather.microsoft.com                                                                        ACTIVE      NSLOOKUP  
 settings-ssl.xboxlive.com                                                                            ACTIVE      NSLOOKUP  
+s.gateway.messenger.live.com                                                                         ACTIVE      NSLOOKUP  
 share.microsoft.com                                                                                  ACTIVE      NSLOOKUP  
 static.2mdn.net                                                                                      ACTIVE      NSLOOKUP  
 storage.live.com                                                                                     ACTIVE      NSLOOKUP  
-store-images.microsoft.com                                                                           ACTIVE      NSLOOKUP  
-store-images.s-microsoft.com                                                                         ACTIVE      NSLOOKUP  
 storecatalogrevocation.storequality.microsoft.com                                                    ACTIVE      NSLOOKUP  
 storeedgefd.dsx.mp.microsoft.com                                                                     ACTIVE      NSLOOKUP  
+store-images.microsoft.com                                                                           ACTIVE      NSLOOKUP  
+store-images.s-microsoft.com                                                                         ACTIVE      NSLOOKUP  
 support.microsoft.com                                                                                ACTIVE      NSLOOKUP  
-t.urs.microsoft.com                                                                                  ACTIVE      NSLOOKUP  
 tile-service.weather.microsoft.com                                                                   ACTIVE      NSLOOKUP  
 time.windows.com                                                                                     ACTIVE      NSLOOKUP  
 tk2.plt.msn.com                                                                                      ACTIVE      NSLOOKUP  
+t.urs.microsoft.com                                                                                  ACTIVE      NSLOOKUP  
 uhf.microsoft.com                                                                                    ACTIVE      NSLOOKUP  
 ui.skype.com                                                                                         ACTIVE      NSLOOKUP  
 urs.microsoft.com                                                                                    ACTIVE      NSLOOKUP  
 urs.smartscreen.microsoft.com                                                                        ACTIVE      NSLOOKUP  
-validation-v2.sls.microsoft.com                                                                      ACTIVE      NSLOOKUP  
 validation.sls.microsoft.com                                                                         ACTIVE      NSLOOKUP  
-w.apprep.smartscreen.microsoft.com                                                                   ACTIVE      NSLOOKUP  
+validation-v2.sls.microsoft.com                                                                      ACTIVE      NSLOOKUP  
 wallet.microsoft.com                                                                                 ACTIVE      NSLOOKUP  
-wdcp.microsoft.com                                                                                   ACTIVE      NSLOOKUP  
+w.apprep.smartscreen.microsoft.com                                                                   ACTIVE      NSLOOKUP  
 wdcpalt.microsoft.com                                                                                ACTIVE      NSLOOKUP  
+wdcp.microsoft.com                                                                                   ACTIVE      NSLOOKUP  
 win10-trt.msedge.net                                                                                 ACTIVE      NSLOOKUP  
-wscont.apps.microsoft.com                                                                            ACTIVE      NSLOOKUP  
-wscont.apps.microsoft.com.edgesuite.net                                                              ACTIVE      NSLOOKUP  
 wscont1.apps.microsoft.com                                                                           ACTIVE      NSLOOKUP  
 wscont2.apps.microsoft.com                                                                           ACTIVE      NSLOOKUP  
+wscont.apps.microsoft.com                                                                            ACTIVE      NSLOOKUP  
+wscont.apps.microsoft.com.edgesuite.net                                                              ACTIVE      NSLOOKUP  
 www.msftconnecttest.com                                                                              ACTIVE      NSLOOKUP  
 www.msftncsi.com                                                                                     ACTIVE      NSLOOKUP  
 www.windowssearch.com                                                                                ACTIVE      NSLOOKUP  

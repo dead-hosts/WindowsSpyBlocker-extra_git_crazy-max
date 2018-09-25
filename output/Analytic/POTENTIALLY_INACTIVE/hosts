@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Sun 23 Sep 11:09:31 UTC 2018 
+# Date of generation: Tue 25 Sep 11:09:05 UTC 2018 
 
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-0001.dc-msedge.net
@@ -25,6 +25,7 @@
 0.0.0.0 config.edge.skype.com
 0.0.0.0 crl.microsoft.com
 0.0.0.0 dmd.metaservices.microsoft.com
+0.0.0.0 dmd.metaservices.microsoft.com.akadns.net
 0.0.0.0 evoke-windowsservices-tas.msedge.net
 0.0.0.0 finance.services.appex.bing.com
 0.0.0.0 fs.microsoft.com

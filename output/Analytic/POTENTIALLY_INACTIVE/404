@@ -1,10 +1,11 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 22 Oct 11:10:56 UTC 2018 
+# Date of generation: Tue 23 Oct 11:10:28 UTC 2018 
 
 api.bing.com
 auth.gfx.ms
 clientconfig.passport.net
 iecvlist.microsoft.com
+ipv4.login.live.com
 licensing.mp.microsoft.com
 login.live.com
 login.msa.akadns6.net
@@ -17,3 +18,4 @@ static.2mdn.net
 tile-service.weather.microsoft.com
 www.msftconnecttest.com
 www.msftncsi.com
+xml.login.live.com

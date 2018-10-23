@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 22 Oct 11:10:56 UTC 2018 
+# Date of generation: Tue 23 Oct 11:10:28 UTC 2018 
 
 Domain                                                                                               Status      HTTP Code 
 a-0001.a-msedge.net                                                                                  ACTIVE      NSLOOKUP  
@@ -23,6 +23,7 @@ answers.microsoft.com                                                           
 api.bing.com                                                                                         ACTIVE      NSLOOKUP  
 appex-rf.msn.com                                                                                     ACTIVE      NSLOOKUP  
 apps.skype.com                                                                                       ACTIVE      NSLOOKUP  
+arc.msn.com.nsatc.net                                                                                ACTIVE      NSLOOKUP  
 ars.smartscreen.microsoft.com                                                                        ACTIVE      NSLOOKUP  
 auth.gfx.ms                                                                                          ACTIVE      NSLOOKUP  
 az361816.vo.msecnd.net                                                                               ACTIVE      NSLOOKUP  
@@ -62,6 +63,7 @@ img-prod-cms-rt-microsoft-com.akamaized.net                                     
 img-s-msn-com.akamaized.net                                                                          ACTIVE      NSLOOKUP  
 img.stb.s-msn.com                                                                                    ACTIVE      NSLOOKUP  
 insiderservice.microsoft.com                                                                         ACTIVE      NSLOOKUP  
+ipv4.login.live.com                                                                                  ACTIVE      NSLOOKUP  
 licensing.mp.microsoft.com                                                                           ACTIVE      NSLOOKUP  
 login.live.com                                                                                       ACTIVE      NSLOOKUP  
 login.msa.akadns6.net                                                                                ACTIVE      NSLOOKUP  
@@ -103,6 +105,7 @@ urs.microsoft.com                                                               
 urs.smartscreen.microsoft.com                                                                        ACTIVE      NSLOOKUP  
 validation.sls.microsoft.com                                                                         ACTIVE      NSLOOKUP  
 validation-v2.sls.microsoft.com                                                                      ACTIVE      NSLOOKUP  
+version.hybrid.api.here.com                                                                          ACTIVE      NSLOOKUP  
 wallet.microsoft.com                                                                                 ACTIVE      NSLOOKUP  
 w.apprep.smartscreen.microsoft.com                                                                   ACTIVE      NSLOOKUP  
 wdcpalt.microsoft.com                                                                                ACTIVE      NSLOOKUP  
@@ -115,3 +118,4 @@ wscont.apps.microsoft.com.edgesuite.net                                         
 www.msftconnecttest.com                                                                              ACTIVE      NSLOOKUP  
 www.msftncsi.com                                                                                     ACTIVE      NSLOOKUP  
 www.windowssearch.com                                                                                ACTIVE      NSLOOKUP  
+xml.login.live.com                                                                                   ACTIVE      NSLOOKUP  

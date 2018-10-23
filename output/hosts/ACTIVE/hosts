@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Mon 22 Oct 11:10:56 UTC 2018 
+# Date of generation: Tue 23 Oct 11:10:28 UTC 2018 
 
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-0001.dc-msedge.net
@@ -22,6 +22,7 @@
 0.0.0.0 api.bing.com
 0.0.0.0 appex-rf.msn.com
 0.0.0.0 apps.skype.com
+0.0.0.0 arc.msn.com.nsatc.net
 0.0.0.0 ars.smartscreen.microsoft.com
 0.0.0.0 auth.gfx.ms
 0.0.0.0 az361816.vo.msecnd.net
@@ -61,6 +62,7 @@
 0.0.0.0 img-s-msn-com.akamaized.net
 0.0.0.0 img.stb.s-msn.com
 0.0.0.0 insiderservice.microsoft.com
+0.0.0.0 ipv4.login.live.com
 0.0.0.0 licensing.mp.microsoft.com
 0.0.0.0 login.live.com
 0.0.0.0 login.msa.akadns6.net
@@ -102,6 +104,7 @@
 0.0.0.0 urs.smartscreen.microsoft.com
 0.0.0.0 validation.sls.microsoft.com
 0.0.0.0 validation-v2.sls.microsoft.com
+0.0.0.0 version.hybrid.api.here.com
 0.0.0.0 wallet.microsoft.com
 0.0.0.0 w.apprep.smartscreen.microsoft.com
 0.0.0.0 wdcpalt.microsoft.com
@@ -114,3 +117,4 @@
 0.0.0.0 www.msftconnecttest.com
 0.0.0.0 www.msftncsi.com
 0.0.0.0 www.windowssearch.com
+0.0.0.0 xml.login.live.com

@@ -1,5 +1,5 @@
 # File generated with https://github.com/funilrys/PyFunceble
-# Date of generation: Fri 16 Nov 11:11:04 UTC 2018 
+# Date of generation: Sat 17 Nov 11:11:54 UTC 2018 
 
 api.bing.com
 auth.gfx.ms
@@ -15,6 +15,7 @@ r20swj13mr.microsoft.com
 s0.2mdn.net
 service.weather.microsoft.com
 static.2mdn.net
+tile-service.weather.microsoft.com
 www.msftconnecttest.com
 www.msftncsi.com
 xml.login.live.com

@@ -74,6 +74,7 @@ mrodevicemgr.officeapps.live.com
 maps.windows.com
 m.hotmail.com
 mediaredirect.microsoft.com
+msagfx.live.com
 msftncsi.com
 nav.smartscreen.microsoft.com
 next-services.apps.microsoft.com
@@ -97,6 +98,7 @@ service.weather.microsoft.com
 settings.data.microsoft.com
 settings-ssl.xboxlive.com
 settings-win.data.microsoft.com
+sfdataservice.microsoft.com
 share.microsoft.com
 static.2mdn.net
 storage.live.com
@@ -128,4 +130,5 @@ wscont1.apps.microsoft.com
 www.msftconnecttest.com
 www.msftncsi.com
 www.windowssearch.com
+x.urs.microsoft.com
 xml.login.live.com

@@ -1,8 +1,10 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker_extra.list": {
-        "1557944096": [
+        "1558098477": [
             "mediaredirect.microsoft.com"
         ],
-        "to_test": []
+        "to_test": [
+            "mediaredirect.microsoft.com"
+        ]
     }
 }

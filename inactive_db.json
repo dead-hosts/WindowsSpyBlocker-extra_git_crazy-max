@@ -1,11 +1,10 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker_extra.list": {
-        "1558530796": [
-            "foodanddrink.tile.appex.bing.com",
+        "1558703565": [
             "mediaredirect.microsoft.com"
         ],
         "to_test": [
-            "mediaredirect.microsoft.com"
+            "foodanddrink.tile.appex.bing.com"
         ]
     }
 }

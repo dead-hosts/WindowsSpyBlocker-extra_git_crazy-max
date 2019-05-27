@@ -16,8 +16,10 @@ a-0012.a-msedge.net
 a-msedge.net
 activation-v2.sls.microsoft.com
 activation.sls.microsoft.com
+am3pap002.storage.live.com
 answers.microsoft.com
 api.bing.com
+api.onedrive.com
 appex-rf.msn.com
 apps.skype.com
 arc.msn.com.nsatc.net
@@ -28,6 +30,7 @@ az512334.vo.msecnd.net
 bingforbusiness.com
 blob.weather.microsoft.com
 c-0001.dc-msedge.net
+c1.microsoft.com
 candycrushsoda.king.com
 cdn.content.prod.cms.msn.com
 cdn.onenote.net
@@ -39,19 +42,21 @@ client-s.gateway.messenger.live.com
 clientconfig.passport.net
 co2.sls.microsoft.com
 config.edge.skype.com
+config.teams.microsoft.com
 crl.microsoft.com
 cy2.settings.data.microsoft.com.akadns.net
+dev.virtualearth.net
 device.auth.xboxlive.com
 dmd.metaservices.microsoft.com
 dmd.metaservices.microsoft.com.akadns.net
 dns.msftncsi.com
+ecn.dev.virtualearth.net
 europe.smartscreen-prod.microsoft.com
 evoke-windowsservices-tas.msedge.net
 feedback.microsoft-hohm.com
 feedback.search.microsoft.com
 feedback.windows.com
 finance.services.appex.bing.com
-foodanddrink.tile.appex.bing.com
 fr-fr.appex-rf.msn.com
 fs.microsoft.com
 g.bing.com
@@ -70,6 +75,7 @@ location-inference-westus.cloudapp.net
 login.live.com
 login.microsoftonline.com
 login.msa.akadns6.net
+logincdn.msauth.net
 m.hotmail.com
 manage.devcenter.microsoft.com
 maps.windows.com
@@ -86,6 +92,7 @@ oneclient.sfx.ms
 otf.msn.com
 outlook.office365.com
 pti.store.microsoft.com
+purchase.mp.microsoft.com
 query.prod.cms.rt.microsoft.com
 r20swj13mr.microsoft.com
 register.cdpcs.microsoft.com
@@ -108,6 +115,8 @@ storecatalogrevocation.storequality.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 support.microsoft.com
 t.urs.microsoft.com
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
 tile-service.weather.microsoft.com
 time.windows.com
 tk2.plt.msn.com

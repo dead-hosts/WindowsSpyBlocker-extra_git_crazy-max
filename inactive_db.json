@@ -3,8 +3,11 @@
         "1559567699": [
             "mediaredirect.microsoft.com"
         ],
-        "to_test": [
-            "foodanddrink.tile.appex.bing.com"
-        ]
+        "1559654126": [
+            "cy2.settings.data.microsoft.com.akadns.net",
+            "foodanddrink.tile.appex.bing.com",
+            "s.gateway.messenger.live.com"
+        ],
+        "to_test": []
     }
 }

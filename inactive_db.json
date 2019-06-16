@@ -1,13 +1,14 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker_extra.list": {
-        "1560604735": [
+        "1560691181": [
             "apps.skype.com",
             "cy2.settings.data.microsoft.com.akadns.net",
-            "foodanddrink.tile.appex.bing.com",
             "mediaredirect.microsoft.com",
             "s.gateway.messenger.live.com",
             "ui.skype.com"
         ],
-        "to_test": []
+        "to_test": [
+            "foodanddrink.tile.appex.bing.com"
+        ]
     }
 }

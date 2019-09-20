@@ -54,12 +54,14 @@
         "1568470617": {},
         "1568628903": {},
         "1568729886": {},
-        "1568902600": {
+        "1568902600": {},
+        "1568989064": {
             "apps.skype.com": "INACTIVE",
             "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE",
             "foodanddrink.tile.appex.bing.com": "INACTIVE",
             "mediaredirect.microsoft.com": "INACTIVE",
             "s.gateway.messenger.live.com": "INACTIVE",
+            "settings.data.microsoft.com": "INACTIVE",
             "ui.skype.com": "INACTIVE"
         }
     }

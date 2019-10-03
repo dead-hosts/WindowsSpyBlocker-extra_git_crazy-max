@@ -31,3 +31,9 @@ config.teams.microsoft.com                                                      
 crl.microsoft.com                                                                                    ACTIVE      XXX        Thu 03 Oct 17:10:59 UTC 2019
 dmd.metaservices.microsoft.com.akadns.net                                                            ACTIVE      XXX        Thu 03 Oct 18:10:58 UTC 2019
 evoke-windowsservices-tas.msedge.net                                                                 ACTIVE      XXX        Thu 03 Oct 19:10:23 UTC 2019
+fs.microsoft.com                                                                                     ACTIVE      XXX        Thu 03 Oct 20:10:07 UTC 2019
+iecvlist.microsoft.com                                                                               ACTIVE      XXX        Thu 03 Oct 20:10:07 UTC 2019
+img-prod-cms-rt-microsoft-com.akamaized.net                                                          ACTIVE      XXX        Thu 03 Oct 20:10:07 UTC 2019
+img-s-msn-com.akamaized.net                                                                          ACTIVE      XXX        Thu 03 Oct 20:10:07 UTC 2019
+img.stb.s-msn.com                                                                                    ACTIVE      XXX        Thu 03 Oct 20:10:07 UTC 2019
+inference.location.live.net                                                                          ACTIVE      XXX        Thu 03 Oct 20:10:07 UTC 2019

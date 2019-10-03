@@ -56,11 +56,25 @@
             "evoke-windowsservices-tas.msedge.net",
             "feedback.microsoft-hohm.com",
             "feedback.search.microsoft.com",
-            "feedback.windows.com"
+            "feedback.windows.com",
+            "finance.services.appex.bing.com",
+            "fr-fr.appex-rf.msn.com",
+            "fs.microsoft.com",
+            "g.bing.com",
+            "g.live.com",
+            "global.sam.msn.com",
+            "i1.services.social.microsoft.com",
+            "iecvlist.microsoft.com",
+            "img-prod-cms-rt-microsoft-com.akamaized.net",
+            "img-s-msn-com.akamaized.net",
+            "img.stb.s-msn.com",
+            "inference.location.live.net",
+            "insiderservice.microsoft.com"
         ],
         "INACTIVE": [
             "apps.skype.com",
-            "cy2.settings.data.microsoft.com.akadns.net"
+            "cy2.settings.data.microsoft.com.akadns.net",
+            "foodanddrink.tile.appex.bing.com"
         ]
     }
 }

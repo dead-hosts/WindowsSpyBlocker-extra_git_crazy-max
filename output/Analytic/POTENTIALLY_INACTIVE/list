@@ -30,3 +30,4 @@ config.edge.skype.com
 config.teams.microsoft.com
 crl.microsoft.com
 dmd.metaservices.microsoft.com.akadns.net
+evoke-windowsservices-tas.msedge.net

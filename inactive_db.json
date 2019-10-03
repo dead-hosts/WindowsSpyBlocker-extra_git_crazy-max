@@ -63,14 +63,14 @@
         "1569681520": {},
         "1569838709": {},
         "1569939930": {
-            "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE",
             "foodanddrink.tile.appex.bing.com": "INACTIVE",
             "mediaredirect.microsoft.com": "INACTIVE",
             "s.gateway.messenger.live.com": "INACTIVE",
             "ui.skype.com": "INACTIVE"
         },
         "1570117124": {
-            "apps.skype.com": "INACTIVE"
+            "apps.skype.com": "INACTIVE",
+            "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE"
         }
     }
 }

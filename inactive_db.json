@@ -62,9 +62,7 @@
         "1569594091": {},
         "1569681520": {},
         "1569838709": {},
-        "1569939930": {
-            "ui.skype.com": "INACTIVE"
-        },
+        "1569939930": {},
         "1570117124": {
             "apps.skype.com": "INACTIVE",
             "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE",
@@ -74,7 +72,8 @@
         "1570289802": {
             "s.gateway.messenger.live.com": "INACTIVE",
             "settings-win.data.microsoft.com": "INACTIVE",
-            "settings.data.microsoft.com": "INACTIVE"
+            "settings.data.microsoft.com": "INACTIVE",
+            "ui.skype.com": "INACTIVE"
         }
     }
 }

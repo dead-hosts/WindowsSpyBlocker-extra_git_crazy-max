@@ -71,6 +71,9 @@
             "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE",
             "foodanddrink.tile.appex.bing.com": "INACTIVE",
             "mediaredirect.microsoft.com": "INACTIVE"
+        },
+        "1570289802": {
+            "settings.data.microsoft.com": "INACTIVE"
         }
     }
 }

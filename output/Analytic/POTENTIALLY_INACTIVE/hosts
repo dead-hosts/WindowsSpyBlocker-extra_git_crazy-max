@@ -55,3 +55,12 @@
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s2s.config.skype.com
 0.0.0.0 service.weather.microsoft.com
+0.0.0.0 sfdataservice.microsoft.com
+0.0.0.0 static.2mdn.net
+0.0.0.0 storage.live.com
+0.0.0.0 store-images.microsoft.com
+0.0.0.0 store-images.s-microsoft.com
+0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net
+0.0.0.0 t0.ssl.ak.tiles.virtualearth.net
+0.0.0.0 tile-service.weather.microsoft.com
+0.0.0.0 time.windows.com

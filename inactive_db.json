@@ -63,7 +63,6 @@
         "1569681520": {},
         "1569838709": {},
         "1569939930": {
-            "s.gateway.messenger.live.com": "INACTIVE",
             "ui.skype.com": "INACTIVE"
         },
         "1570117124": {
@@ -73,6 +72,7 @@
             "mediaredirect.microsoft.com": "INACTIVE"
         },
         "1570289802": {
+            "s.gateway.messenger.live.com": "INACTIVE",
             "settings-win.data.microsoft.com": "INACTIVE",
             "settings.data.microsoft.com": "INACTIVE"
         }

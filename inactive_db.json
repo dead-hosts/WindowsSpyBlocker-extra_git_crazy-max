@@ -64,7 +64,6 @@
         "1569838709": {},
         "1569939930": {},
         "1570117124": {
-            "foodanddrink.tile.appex.bing.com": "INACTIVE",
             "mediaredirect.microsoft.com": "INACTIVE"
         },
         "1570289802": {
@@ -74,6 +73,9 @@
             "settings-win.data.microsoft.com": "INACTIVE",
             "settings.data.microsoft.com": "INACTIVE",
             "ui.skype.com": "INACTIVE"
+        },
+        "1570389877": {
+            "foodanddrink.tile.appex.bing.com": "INACTIVE"
         }
     }
 }

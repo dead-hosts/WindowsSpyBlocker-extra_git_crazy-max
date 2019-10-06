@@ -29,3 +29,5 @@ client-office365-tas.msedge.net
 config.edge.skype.com
 config.teams.microsoft.com
 crl.microsoft.com
+dmd.metaservices.microsoft.com
+dmd.metaservices.microsoft.com.akadns.net

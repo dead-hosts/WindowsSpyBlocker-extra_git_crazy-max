@@ -69,12 +69,12 @@
             "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE",
             "s.gateway.messenger.live.com": "INACTIVE",
             "settings-win.data.microsoft.com": "INACTIVE",
-            "settings.data.microsoft.com": "INACTIVE",
             "ui.skype.com": "INACTIVE"
         },
         "1570389877": {
             "foodanddrink.tile.appex.bing.com": "INACTIVE",
-            "mediaredirect.microsoft.com": "INACTIVE"
+            "mediaredirect.microsoft.com": "INACTIVE",
+            "settings.data.microsoft.com": "INACTIVE"
         }
     }
 }

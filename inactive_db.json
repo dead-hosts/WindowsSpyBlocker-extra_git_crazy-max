@@ -63,9 +63,7 @@
         "1569681520": {},
         "1569838709": {},
         "1569939930": {},
-        "1570117124": {
-            "mediaredirect.microsoft.com": "INACTIVE"
-        },
+        "1570117124": {},
         "1570289802": {
             "apps.skype.com": "INACTIVE",
             "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE",
@@ -75,7 +73,8 @@
             "ui.skype.com": "INACTIVE"
         },
         "1570389877": {
-            "foodanddrink.tile.appex.bing.com": "INACTIVE"
+            "foodanddrink.tile.appex.bing.com": "INACTIVE",
+            "mediaredirect.microsoft.com": "INACTIVE"
         }
     }
 }

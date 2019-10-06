@@ -103,3 +103,4 @@
 0.0.0.0 s2s.config.skype.com
 0.0.0.0 search.msn.com
 0.0.0.0 service.weather.microsoft.com
+0.0.0.0 settings-ssl.xboxlive.com

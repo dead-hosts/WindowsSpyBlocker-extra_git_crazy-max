@@ -29,3 +29,5 @@ client-office365-tas.msedge.net                                                 
 config.edge.skype.com                                                                                ACTIVE      XXX        Mon 07 Oct 15:10:01 UTC 2019
 config.teams.microsoft.com                                                                           ACTIVE      XXX        Mon 07 Oct 15:10:01 UTC 2019
 crl.microsoft.com                                                                                    ACTIVE      XXX        Mon 07 Oct 15:10:01 UTC 2019
+dmd.metaservices.microsoft.com                                                                       ACTIVE      XXX        Mon 07 Oct 16:10:01 UTC 2019
+dmd.metaservices.microsoft.com.akadns.net                                                            ACTIVE      XXX        Mon 07 Oct 16:10:01 UTC 2019

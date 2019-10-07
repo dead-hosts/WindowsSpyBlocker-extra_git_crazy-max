@@ -42,3 +42,8 @@
 0.0.0.0 clientconfig.passport.net
 0.0.0.0 client-office365-tas.msedge.net
 0.0.0.0 client-s.gateway.messenger.live.com
+0.0.0.0 co2.sls.microsoft.com
+0.0.0.0 config.edge.skype.com
+0.0.0.0 config.teams.microsoft.com
+0.0.0.0 crl.microsoft.com
+0.0.0.0 device.auth.xboxlive.com

@@ -123,3 +123,5 @@ t.urs.microsoft.com                                                             
 uhf.microsoft.com                                                                                    Unknown           DNSLOOKUP  302        Mon 07 Oct 01:10:07 UTC 2019
 urs.microsoft.com                                                                                    Unknown           DNSLOOKUP  XXX        Mon 07 Oct 01:10:07 UTC 2019
 urs.smartscreen.microsoft.com                                                                        Unknown           DNSLOOKUP  XXX        Mon 07 Oct 01:10:07 UTC 2019
+validation.sls.microsoft.com                                                                         Unknown           DNSLOOKUP  XXX        Mon 07 Oct 03:10:17 UTC 2019
+validation-v2.sls.microsoft.com                                                                      Unknown           DNSLOOKUP  XXX        Mon 07 Oct 03:10:17 UTC 2019

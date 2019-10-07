@@ -121,7 +121,9 @@
             "t.urs.microsoft.com",
             "uhf.microsoft.com",
             "urs.microsoft.com",
-            "urs.smartscreen.microsoft.com"
+            "urs.smartscreen.microsoft.com",
+            "validation.sls.microsoft.com",
+            "validation-v2.sls.microsoft.com"
         ],
         "INACTIVE": [
             "apps.skype.com",

@@ -55,11 +55,19 @@
             "europe.smartscreen-prod.microsoft.com",
             "evoke-windowsservices-tas.msedge.net",
             "feedback.microsoft-hohm.com",
-            "feedback.search.microsoft.com"
+            "feedback.search.microsoft.com",
+            "feedback.windows.com",
+            "finance.services.appex.bing.com",
+            "fr-fr.appex-rf.msn.com",
+            "fs.microsoft.com",
+            "g.bing.com",
+            "g.live.com",
+            "global.sam.msn.com"
         ],
         "INACTIVE": [
             "apps.skype.com",
-            "cy2.settings.data.microsoft.com.akadns.net"
+            "cy2.settings.data.microsoft.com.akadns.net",
+            "foodanddrink.tile.appex.bing.com"
         ]
     }
 }

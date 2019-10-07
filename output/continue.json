@@ -83,7 +83,21 @@
             "mrodevicemgr.officeapps.live.com",
             "msagfx.live.com",
             "msftncsi.com",
-            "nav.smartscreen.microsoft.com"
+            "nav.smartscreen.microsoft.com",
+            "next-services.apps.microsoft.com",
+            "ocos-office365-s2s.msedge.net",
+            "officecdn.microsoft.com",
+            "officecdn.microsoft.com.edgesuite.net",
+            "officeclient.microsoft.com",
+            "oneclient.sfx.ms",
+            "optanon.blob.core.windows.net",
+            "otf.msn.com",
+            "outlook.office365.com",
+            "pti.store.microsoft.com",
+            "purchase.mp.microsoft.com",
+            "query.prod.cms.rt.microsoft.com",
+            "r20swj13mr.microsoft.com",
+            "register.cdpcs.microsoft.com"
         ],
         "INACTIVE": [
             "apps.skype.com",

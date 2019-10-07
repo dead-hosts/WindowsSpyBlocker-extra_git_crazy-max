@@ -33,3 +33,16 @@
 0.0.0.0 dmd.metaservices.microsoft.com.akadns.net
 0.0.0.0 evoke-windowsservices-tas.msedge.net
 0.0.0.0 fs.microsoft.com
+0.0.0.0 iecvlist.microsoft.com
+0.0.0.0 img-prod-cms-rt-microsoft-com.akamaized.net
+0.0.0.0 img-s-msn-com.akamaized.net
+0.0.0.0 img.stb.s-msn.com
+0.0.0.0 inference.location.live.net
+0.0.0.0 ipv4.login.live.com
+0.0.0.0 licensing.mp.microsoft.com
+0.0.0.0 location-inference-westus.cloudapp.net
+0.0.0.0 logincdn.msauth.net
+0.0.0.0 login.live.com
+0.0.0.0 login.msa.akadns6.net
+0.0.0.0 manage.devcenter.microsoft.com
+0.0.0.0 msagfx.live.com

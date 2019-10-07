@@ -51,3 +51,8 @@
 0.0.0.0 dmd.metaservices.microsoft.com
 0.0.0.0 dmd.metaservices.microsoft.com.akadns.net
 0.0.0.0 dns.msftncsi.com
+0.0.0.0 ecn.dev.virtualearth.net
+0.0.0.0 europe.smartscreen-prod.microsoft.com
+0.0.0.0 evoke-windowsservices-tas.msedge.net
+0.0.0.0 feedback.microsoft-hohm.com
+0.0.0.0 feedback.search.microsoft.com

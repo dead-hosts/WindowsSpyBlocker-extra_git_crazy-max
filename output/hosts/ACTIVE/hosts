@@ -98,3 +98,9 @@
 0.0.0.0 query.prod.cms.rt.microsoft.com
 0.0.0.0 r20swj13mr.microsoft.com
 0.0.0.0 register.cdpcs.microsoft.com
+0.0.0.0 ris.api.iris.microsoft.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 s2s.config.skype.com
+0.0.0.0 search.msn.com
+0.0.0.0 service.weather.microsoft.com
+0.0.0.0 settings-ssl.xboxlive.com

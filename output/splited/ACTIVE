@@ -99,3 +99,9 @@ purchase.mp.microsoft.com                                                       
 query.prod.cms.rt.microsoft.com                                                                      Unknown           DNSLOOKUP  405        Mon 07 Oct 22:10:11 UTC 2019
 r20swj13mr.microsoft.com                                                                             Unknown           DNSLOOKUP  404        Mon 07 Oct 22:10:11 UTC 2019
 register.cdpcs.microsoft.com                                                                         Unknown           DNSLOOKUP  XXX        Mon 07 Oct 22:10:11 UTC 2019
+ris.api.iris.microsoft.com                                                                           Unknown           DNSLOOKUP  403        Mon 07 Oct 23:10:43 UTC 2019
+s0.2mdn.net                                                                                          Unknown           DNSLOOKUP  404        Mon 07 Oct 23:10:43 UTC 2019
+s2s.config.skype.com                                                                                 Unknown           DNSLOOKUP  403        Mon 07 Oct 23:10:43 UTC 2019
+search.msn.com                                                                                       Unknown           DNSLOOKUP  301        Mon 07 Oct 23:10:43 UTC 2019
+service.weather.microsoft.com                                                                        Unknown           DNSLOOKUP  404        Mon 07 Oct 23:10:43 UTC 2019
+settings-ssl.xboxlive.com                                                                            Unknown           DNSLOOKUP  504        Mon 07 Oct 23:10:43 UTC 2019

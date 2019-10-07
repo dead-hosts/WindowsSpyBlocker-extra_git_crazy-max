@@ -97,13 +97,20 @@
             "purchase.mp.microsoft.com",
             "query.prod.cms.rt.microsoft.com",
             "r20swj13mr.microsoft.com",
-            "register.cdpcs.microsoft.com"
+            "register.cdpcs.microsoft.com",
+            "ris.api.iris.microsoft.com",
+            "s0.2mdn.net",
+            "s2s.config.skype.com",
+            "search.msn.com",
+            "service.weather.microsoft.com",
+            "settings-ssl.xboxlive.com"
         ],
         "INACTIVE": [
             "apps.skype.com",
             "cy2.settings.data.microsoft.com.akadns.net",
             "foodanddrink.tile.appex.bing.com",
-            "mediaredirect.microsoft.com"
+            "mediaredirect.microsoft.com",
+            "settings.data.microsoft.com"
         ]
     }
 }

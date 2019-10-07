@@ -123,7 +123,11 @@
             "urs.microsoft.com",
             "urs.smartscreen.microsoft.com",
             "validation.sls.microsoft.com",
-            "validation-v2.sls.microsoft.com"
+            "validation-v2.sls.microsoft.com",
+            "version.hybrid.api.here.com",
+            "wallet.microsoft.com",
+            "w.apprep.smartscreen.microsoft.com",
+            "wdcpalt.microsoft.com"
         ],
         "INACTIVE": [
             "apps.skype.com",

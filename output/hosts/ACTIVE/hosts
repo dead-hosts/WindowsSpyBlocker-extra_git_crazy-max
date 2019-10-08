@@ -37,3 +37,8 @@
 0.0.0.0 cdn.content.prod.cms.msn.com
 0.0.0.0 cdn.onenote.net
 0.0.0.0 checkappexec.microsoft.com
+0.0.0.0 choice.microsoft.com
+0.0.0.0 choice.microsoft.com.nsatc.net
+0.0.0.0 clientconfig.passport.net
+0.0.0.0 client-office365-tas.msedge.net
+0.0.0.0 client-s.gateway.messenger.live.com

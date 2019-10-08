@@ -117,7 +117,10 @@
             "t0.ssl.ak.tiles.virtualearth.net",
             "tile-service.weather.microsoft.com",
             "time.windows.com",
-            "tk2.plt.msn.com"
+            "tk2.plt.msn.com",
+            "t.urs.microsoft.com",
+            "uhf.microsoft.com",
+            "urs.microsoft.com"
         ],
         "INACTIVE": [
             "apps.skype.com",
@@ -126,7 +129,8 @@
             "mediaredirect.microsoft.com",
             "settings.data.microsoft.com",
             "settings-win.data.microsoft.com",
-            "s.gateway.messenger.live.com"
+            "s.gateway.messenger.live.com",
+            "ui.skype.com"
         ]
     }
 }

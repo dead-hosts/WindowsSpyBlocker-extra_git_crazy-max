@@ -119,3 +119,6 @@ t0.ssl.ak.tiles.virtualearth.net                                                
 tile-service.weather.microsoft.com                                                                   Unknown           DNSLOOKUP  404        Tue 08 Oct 00:10:03 UTC 2019
 time.windows.com                                                                                     Unknown           DNSLOOKUP  404        Tue 08 Oct 00:10:03 UTC 2019
 tk2.plt.msn.com                                                                                      Unknown           DNSLOOKUP  XXX        Tue 08 Oct 00:10:03 UTC 2019
+t.urs.microsoft.com                                                                                  Unknown           DNSLOOKUP  XXX        Tue 08 Oct 01:10:45 UTC 2019
+uhf.microsoft.com                                                                                    Unknown           DNSLOOKUP  302        Tue 08 Oct 01:10:45 UTC 2019
+urs.microsoft.com                                                                                    Unknown           DNSLOOKUP  XXX        Tue 08 Oct 01:10:45 UTC 2019

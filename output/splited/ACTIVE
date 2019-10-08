@@ -124,3 +124,7 @@ uhf.microsoft.com                                                               
 urs.microsoft.com                                                                                    Unknown           DNSLOOKUP  XXX        Tue 08 Oct 01:10:45 UTC 2019
 urs.smartscreen.microsoft.com                                                                        Unknown           DNSLOOKUP  XXX        Tue 08 Oct 02:10:11 UTC 2019
 validation.sls.microsoft.com                                                                         Unknown           DNSLOOKUP  XXX        Tue 08 Oct 02:10:11 UTC 2019
+validation-v2.sls.microsoft.com                                                                      Unknown           DNSLOOKUP  XXX        Tue 08 Oct 03:10:34 UTC 2019
+version.hybrid.api.here.com                                                                          Unknown           DNSLOOKUP  200        Tue 08 Oct 03:10:34 UTC 2019
+wallet.microsoft.com                                                                                 Unknown           DNSLOOKUP  302        Tue 08 Oct 03:10:34 UTC 2019
+w.apprep.smartscreen.microsoft.com                                                                   Unknown           DNSLOOKUP  XXX        Tue 08 Oct 03:10:34 UTC 2019

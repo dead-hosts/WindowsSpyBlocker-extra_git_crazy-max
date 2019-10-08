@@ -126,7 +126,9 @@
             "validation-v2.sls.microsoft.com",
             "version.hybrid.api.here.com",
             "wallet.microsoft.com",
-            "w.apprep.smartscreen.microsoft.com"
+            "w.apprep.smartscreen.microsoft.com",
+            "wdcpalt.microsoft.com",
+            "wdcp.microsoft.com"
         ],
         "INACTIVE": [
             "apps.skype.com",

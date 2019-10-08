@@ -128,3 +128,5 @@ validation-v2.sls.microsoft.com                                                 
 version.hybrid.api.here.com                                                                          Unknown           DNSLOOKUP  200        Tue 08 Oct 03:10:34 UTC 2019
 wallet.microsoft.com                                                                                 Unknown           DNSLOOKUP  302        Tue 08 Oct 03:10:34 UTC 2019
 w.apprep.smartscreen.microsoft.com                                                                   Unknown           DNSLOOKUP  XXX        Tue 08 Oct 03:10:34 UTC 2019
+wdcpalt.microsoft.com                                                                                Unknown           DNSLOOKUP  XXX        Tue 08 Oct 05:10:30 UTC 2019
+wdcp.microsoft.com                                                                                   Unknown           DNSLOOKUP  XXX        Tue 08 Oct 05:10:30 UTC 2019

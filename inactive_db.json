@@ -65,11 +65,10 @@
         "1569939930": {},
         "1570117124": {},
         "1570289802": {},
-        "1570389877": {
-            "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE"
-        },
+        "1570389877": {},
         "1570476968": {
             "apps.skype.com": "INACTIVE",
+            "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE",
             "foodanddrink.tile.appex.bing.com": "INACTIVE",
             "mediaredirect.microsoft.com": "INACTIVE",
             "s.gateway.messenger.live.com": "INACTIVE",

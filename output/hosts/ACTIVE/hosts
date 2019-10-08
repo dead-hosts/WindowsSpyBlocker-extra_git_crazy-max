@@ -104,3 +104,5 @@
 0.0.0.0 search.msn.com
 0.0.0.0 service.weather.microsoft.com
 0.0.0.0 settings.data.microsoft.com
+0.0.0.0 settings-ssl.xboxlive.com
+0.0.0.0 settings-win.data.microsoft.com

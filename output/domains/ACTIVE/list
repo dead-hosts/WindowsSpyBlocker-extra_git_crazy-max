@@ -104,3 +104,5 @@ s2s.config.skype.com
 search.msn.com
 service.weather.microsoft.com
 settings.data.microsoft.com
+settings-ssl.xboxlive.com
+settings-win.data.microsoft.com

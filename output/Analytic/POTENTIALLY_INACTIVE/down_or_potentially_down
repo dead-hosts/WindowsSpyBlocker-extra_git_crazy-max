@@ -31,3 +31,4 @@ config.teams.microsoft.com                                                      
 crl.microsoft.com                                                                                    ACTIVE      XXX        Tue 08 Oct 14:10:45 UTC 2019
 dmd.metaservices.microsoft.com                                                                       ACTIVE      XXX        Tue 08 Oct 16:10:47 UTC 2019
 dmd.metaservices.microsoft.com.akadns.net                                                            ACTIVE      XXX        Tue 08 Oct 16:10:47 UTC 2019
+evoke-windowsservices-tas.msedge.net                                                                 ACTIVE      XXX        Tue 08 Oct 17:10:17 UTC 2019

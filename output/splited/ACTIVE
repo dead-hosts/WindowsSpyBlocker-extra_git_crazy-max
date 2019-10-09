@@ -122,3 +122,6 @@ tile-service.weather.microsoft.com                                              
 time.windows.com                                                                                     Unknown           DNSLOOKUP  404        Tue 08 Oct 23:10:57 UTC 2019
 tk2.plt.msn.com                                                                                      Unknown           DNSLOOKUP  XXX        Tue 08 Oct 23:10:57 UTC 2019
 t.urs.microsoft.com                                                                                  Unknown           DNSLOOKUP  XXX        Tue 08 Oct 23:10:57 UTC 2019
+uhf.microsoft.com                                                                                    Unknown           HTTP Code  302        Wed 09 Oct 23:10:35 UTC 2019
+version.hybrid.api.here.com                                                                          Unknown           HTTP Code  200        Wed 09 Oct 23:10:35 UTC 2019
+wallet.microsoft.com                                                                                 Unknown           HTTP Code  302        Wed 09 Oct 23:10:35 UTC 2019

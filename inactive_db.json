@@ -35,37 +35,6 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/domains.list": {
-        "1565614323": {},
-        "1565704414": {},
-        "1565877168": {},
-        "1566050122": {},
-        "1566309321": {},
-        "1566482290": {},
-        "1566568876": {},
-        "1566741658": {},
-        "1567001033": {},
-        "1567173903": {},
-        "1567433221": {},
-        "1567606104": {},
-        "1567779018": {},
-        "1567951846": {},
-        "1568038447": {},
-        "1568211175": {},
-        "1568470617": {},
-        "1568628903": {},
-        "1568729886": {},
-        "1568902600": {},
-        "1568989064": {},
-        "1569162457": {},
-        "1569334829": {},
-        "1569507653": {},
-        "1569594091": {},
-        "1569681520": {},
-        "1569838709": {},
-        "1569939930": {},
-        "1570117124": {},
-        "1570289802": {},
-        "1570389877": {},
         "1570476968": {
             "apps.skype.com": "INACTIVE",
             "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE",
@@ -75,6 +44,21 @@
             "foodanddrink.tile.appex.bing.com": "INACTIVE",
             "mediaredirect.microsoft.com": "INACTIVE",
             "s.gateway.messenger.live.com": "INACTIVE"
+        },
+        "1570663726": {
+            "urs.microsoft.com": "INACTIVE"
+        },
+        "1570663857": {
+            "urs.smartscreen.microsoft.com": "INACTIVE"
+        },
+        "1570663988": {
+            "validation.sls.microsoft.com": "INACTIVE"
+        },
+        "1570664120": {
+            "validation-v2.sls.microsoft.com": "INACTIVE"
+        },
+        "1570664251": {
+            "w.apprep.smartscreen.microsoft.com": "INACTIVE"
         }
     }
 }

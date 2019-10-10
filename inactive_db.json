@@ -186,6 +186,41 @@
         },
         "1570681634": {
             "settings-win.data.microsoft.com": "INACTIVE"
+        },
+        "1570685189": {
+            "sfdataservice.microsoft.com": "INACTIVE",
+            "static.2mdn.net": "INACTIVE",
+            "storage.live.com": "INACTIVE"
+        },
+        "1570685190": {
+            "store-images.microsoft.com": "INACTIVE",
+            "store-images.s-microsoft.com": "INACTIVE"
+        },
+        "1570685191": {
+            "tile-service.weather.microsoft.com": "INACTIVE",
+            "time.windows.com": "INACTIVE"
+        },
+        "1570685322": {
+            "tk2.plt.msn.com": "INACTIVE"
+        },
+        "1570685453": {
+            "t.urs.microsoft.com": "INACTIVE"
+        },
+        "1570685584": {
+            "wdcpalt.microsoft.com": "INACTIVE"
+        },
+        "1570685715": {
+            "wdcp.microsoft.com": "INACTIVE"
+        },
+        "1570685716": {
+            "win10-trt.msedge.net": "INACTIVE",
+            "www.msftncsi.com": "INACTIVE"
+        },
+        "1570685717": {
+            "xml.login.live.com": "INACTIVE"
+        },
+        "1570685846": {
+            "x.urs.microsoft.com": "INACTIVE"
         }
     }
 }

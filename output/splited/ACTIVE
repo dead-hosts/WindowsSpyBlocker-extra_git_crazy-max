@@ -227,3 +227,18 @@ wscont.apps.microsoft.com                                                       
 wscont.apps.microsoft.com.edgesuite.net                                                              Unknown           HTTP Code  403        Thu 10 Oct 05:10:24 UTC 2019
 www.msftconnecttest.com                                                                              Unknown           HTTP Code  200        Thu 10 Oct 05:10:24 UTC 2019
 www.windowssearch.com                                                                                Unknown           HTTP Code  301        Thu 10 Oct 05:10:24 UTC 2019
+a-msedge.net                                                                                         06-mar-2020       WHOIS      XXX        Thu 10 Oct 06:10:30 UTC 2019
+dev.virtualearth.net                                                                                 Unknown           HTTP Code  302        Thu 10 Oct 06:10:30 UTC 2019
+dmd.metaservices.microsoft.com                                                                       Unknown           HTTP Code  403        Thu 10 Oct 06:10:30 UTC 2019
+dmd.metaservices.microsoft.com.akadns.net                                                            Unknown           HTTP Code  403        Thu 10 Oct 06:10:30 UTC 2019
+ecn.dev.virtualearth.net                                                                             Unknown           HTTP Code  302        Thu 10 Oct 06:10:30 UTC 2019
+officecdn.microsoft.com                                                                              Unknown           HTTP Code  301        Thu 10 Oct 06:10:30 UTC 2019
+officecdn.microsoft.com.edgesuite.net                                                                Unknown           HTTP Code  200        Thu 10 Oct 06:10:30 UTC 2019
+oneclient.sfx.ms                                                                                     Unknown           HTTP Code  200        Thu 10 Oct 06:10:30 UTC 2019
+otf.msn.com                                                                                          Unknown           HTTP Code  200        Thu 10 Oct 06:10:30 UTC 2019
+outlook.office365.com                                                                                Unknown           HTTP Code  301        Thu 10 Oct 06:10:30 UTC 2019
+query.prod.cms.rt.microsoft.com                                                                      Unknown           HTTP Code  405        Thu 10 Oct 06:10:30 UTC 2019
+ris.api.iris.microsoft.com                                                                           Unknown           HTTP Code  403        Thu 10 Oct 06:10:30 UTC 2019
+s2s.config.skype.com                                                                                 Unknown           HTTP Code  403        Thu 10 Oct 06:10:30 UTC 2019
+search.msn.com                                                                                       Unknown           HTTP Code  301        Thu 10 Oct 06:10:30 UTC 2019
+settings-ssl.xboxlive.com                                                                            Unknown           HTTP Code  504        Thu 10 Oct 06:10:30 UTC 2019

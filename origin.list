@@ -1,6 +1,6 @@
 ### WindowsSpyBlocker - Hosts extra rules
 ### License: MIT
-### Updated: 2019-08-03T15:48:00Z02:00
+### Updated: 2019-10-09T01:10:00Z02:00
 ### Donate: https://www.patreon.com/crazymax ; https://www.paypal.me/crazyws
 ### More info: https://github.com/crazy-max/WindowsSpyBlocker
 
@@ -40,6 +40,7 @@
 0.0.0.0 candycrushsoda.king.com
 0.0.0.0 cdn.content.prod.cms.msn.com
 0.0.0.0 cdn.onenote.net
+0.0.0.0 ceuswatcab01.blob.core.windows.net
 0.0.0.0 checkappexec.microsoft.com
 0.0.0.0 choice.microsoft.com
 0.0.0.0 choice.microsoft.com.nsatc.net
@@ -97,6 +98,63 @@
 0.0.0.0 officecdn.microsoft.com.edgesuite.net
 0.0.0.0 officeclient.microsoft.com
 0.0.0.0 oneclient.sfx.ms
+0.0.0.0 onedriveclucprodbn20001.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20002.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20003.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20004.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20005.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20006.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20007.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20008.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20009.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20010.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20011.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20012.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20013.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20014.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20016.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20017.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20018.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20019.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20020.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20021.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20022.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20023.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20024.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20025.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20026.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20027.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20028.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20029.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20030.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20001.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20002.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20003.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20004.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20005.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20006.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20007.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20008.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20009.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20011.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20012.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20013.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20014.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20015.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20016.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20017.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20018.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20019.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20020.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20021.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20023.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20024.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20025.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20026.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20027.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20028.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20029.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20030.blob.core.windows.net
 0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 otf.msn.com
 0.0.0.0 outlook.office365.com

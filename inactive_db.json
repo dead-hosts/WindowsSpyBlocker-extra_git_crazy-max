@@ -221,6 +221,88 @@
             "mediaredirect.microsoft.com": "INACTIVE",
             "s.gateway.messenger.live.com": "INACTIVE",
             "ui.skype.com": "INACTIVE"
+        },
+        "1570705320": {
+            "ceuswatcab01.blob.core.windows.net": "INACTIVE"
+        },
+        "1570705324": {
+            "onedriveclucprodbn20001.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20002.blob.core.windows.net": "INACTIVE"
+        },
+        "1570705325": {
+            "onedriveclucprodbn20003.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20004.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20005.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20006.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20007.blob.core.windows.net": "INACTIVE"
+        },
+        "1570705326": {
+            "onedriveclucprodbn20008.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20009.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20010.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20011.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20012.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20013.blob.core.windows.net": "INACTIVE"
+        },
+        "1570705327": {
+            "onedriveclucprodbn20014.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20016.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20017.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20018.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20019.blob.core.windows.net": "INACTIVE"
+        },
+        "1570705328": {
+            "onedriveclucprodbn20020.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20021.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20022.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20023.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20024.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20025.blob.core.windows.net": "INACTIVE"
+        },
+        "1570705329": {
+            "onedriveclucprodbn20026.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20027.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20028.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20029.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20030.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20001.blob.core.windows.net": "INACTIVE"
+        },
+        "1570705330": {
+            "onedriveclucproddm20002.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20003.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20004.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20005.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20006.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20007.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20008.blob.core.windows.net": "INACTIVE"
+        },
+        "1570705331": {
+            "onedriveclucproddm20009.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20011.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20012.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20013.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20014.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20015.blob.core.windows.net": "INACTIVE"
+        },
+        "1570705332": {
+            "onedriveclucproddm20016.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20017.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20018.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20019.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20020.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20021.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20023.blob.core.windows.net": "INACTIVE"
+        },
+        "1570705333": {
+            "onedriveclucproddm20024.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20025.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20026.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20027.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20028.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20029.blob.core.windows.net": "INACTIVE"
+        },
+        "1570705334": {
+            "onedriveclucproddm20030.blob.core.windows.net": "INACTIVE"
         }
     }
 }

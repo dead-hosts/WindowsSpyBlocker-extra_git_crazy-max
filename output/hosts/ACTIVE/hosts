@@ -136,3 +136,7 @@
 0.0.0.0 cdn.content.prod.cms.msn.com
 0.0.0.0 cdn.onenote.net
 0.0.0.0 choice.microsoft.com
+0.0.0.0 dev.virtualearth.net
+0.0.0.0 dmd.metaservices.microsoft.com
+0.0.0.0 dmd.metaservices.microsoft.com.akadns.net
+0.0.0.0 ecn.dev.virtualearth.net

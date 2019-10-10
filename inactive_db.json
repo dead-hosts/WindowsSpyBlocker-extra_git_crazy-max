@@ -105,6 +105,30 @@
         },
         "1570669224": {
             "choice.microsoft.com.nsatc.net": "INACTIVE"
+        },
+        "1570672864": {
+            "client-office365-tas.msedge.net": "INACTIVE",
+            "clientconfig.passport.net": "INACTIVE"
+        },
+        "1570672994": {
+            "client-s.gateway.messenger.live.com": "INACTIVE"
+        },
+        "1570673125": {
+            "co2.sls.microsoft.com": "INACTIVE"
+        },
+        "1570673126": {
+            "config.edge.skype.com": "INACTIVE",
+            "config.teams.microsoft.com": "INACTIVE",
+            "crl.microsoft.com": "INACTIVE"
+        },
+        "1570673257": {
+            "device.auth.xboxlive.com": "INACTIVE"
+        },
+        "1570673388": {
+            "dns.msftncsi.com": "INACTIVE"
+        },
+        "1570673519": {
+            "europe.smartscreen-prod.microsoft.com": "INACTIVE"
         }
     }
 }

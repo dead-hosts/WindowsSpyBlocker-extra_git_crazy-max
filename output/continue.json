@@ -1,15 +1,45 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/domains.list": {
         "ACTIVE": [
-            "version.hybrid.api.here.com",
-            "wallet.microsoft.com"
+            "a-msedge.net",
+            "answers.microsoft.com",
+            "api.onedrive.com",
+            "appex-rf.msn.com",
+            "arc.msn.com",
+            "arc.msn.com.nsatc.net",
+            "bingforbusiness.com",
+            "c1.microsoft.com",
+            "candycrushsoda.king.com",
+            "cdn.content.prod.cms.msn.com",
+            "cdn.onenote.net",
+            "choice.microsoft.com"
         ],
         "INACTIVE": [
-            "urs.microsoft.com",
-            "urs.smartscreen.microsoft.com",
-            "validation.sls.microsoft.com",
-            "validation-v2.sls.microsoft.com",
-            "w.apprep.smartscreen.microsoft.com"
+            "a-0001.dc-msedge.net",
+            "a-0002.a-msedge.net",
+            "a-0003.a-msedge.net",
+            "a-0003.dc-msedge.net",
+            "a-0004.a-msedge.net",
+            "a-0005.a-msedge.net",
+            "a-0006.a-msedge.net",
+            "a-0007.a-msedge.net",
+            "a-0008.a-msedge.net",
+            "a-0009.a-msedge.net",
+            "a-0010.a-msedge.net",
+            "a-0011.a-msedge.net",
+            "a-0012.a-msedge.net",
+            "activation.sls.microsoft.com",
+            "activation-v2.sls.microsoft.com",
+            "am3pap002.storage.live.com",
+            "api.bing.com",
+            "ars.smartscreen.microsoft.com",
+            "auth.gfx.ms",
+            "az361816.vo.msecnd.net",
+            "az512334.vo.msecnd.net",
+            "blob.weather.microsoft.com",
+            "c-0001.dc-msedge.net",
+            "checkappexec.microsoft.com",
+            "choice.microsoft.com.nsatc.net"
         ]
     }
 }

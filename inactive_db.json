@@ -59,6 +59,52 @@
         },
         "1570664251": {
             "w.apprep.smartscreen.microsoft.com": "INACTIVE"
+        },
+        "1570668569": {
+            "a-0001.a-msedge.net": "INACTIVE",
+            "a-0001.dc-msedge.net": "INACTIVE",
+            "a-0002.a-msedge.net": "INACTIVE"
+        },
+        "1570668570": {
+            "a-0003.a-msedge.net": "INACTIVE",
+            "a-0003.dc-msedge.net": "INACTIVE",
+            "a-0004.a-msedge.net": "INACTIVE",
+            "a-0005.a-msedge.net": "INACTIVE",
+            "a-0006.a-msedge.net": "INACTIVE",
+            "a-0007.a-msedge.net": "INACTIVE",
+            "a-0008.a-msedge.net": "INACTIVE",
+            "a-0009.a-msedge.net": "INACTIVE",
+            "a-0010.a-msedge.net": "INACTIVE"
+        },
+        "1570668571": {
+            "a-0011.a-msedge.net": "INACTIVE",
+            "a-0012.a-msedge.net": "INACTIVE"
+        },
+        "1570668700": {
+            "activation.sls.microsoft.com": "INACTIVE"
+        },
+        "1570668831": {
+            "activation-v2.sls.microsoft.com": "INACTIVE"
+        },
+        "1570668832": {
+            "am3pap002.storage.live.com": "INACTIVE",
+            "api.bing.com": "INACTIVE"
+        },
+        "1570668962": {
+            "ars.smartscreen.microsoft.com": "INACTIVE",
+            "auth.gfx.ms": "INACTIVE"
+        },
+        "1570668963": {
+            "az361816.vo.msecnd.net": "INACTIVE",
+            "az512334.vo.msecnd.net": "INACTIVE",
+            "blob.weather.microsoft.com": "INACTIVE",
+            "c-0001.dc-msedge.net": "INACTIVE"
+        },
+        "1570669093": {
+            "checkappexec.microsoft.com": "INACTIVE"
+        },
+        "1570669224": {
+            "choice.microsoft.com.nsatc.net": "INACTIVE"
         }
     }
 }

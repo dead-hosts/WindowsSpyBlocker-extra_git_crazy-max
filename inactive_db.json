@@ -160,6 +160,32 @@
         },
         "1570677699": {
             "nav.smartscreen.microsoft.com": "INACTIVE"
+        },
+        "1570681161": {
+            "next-services.apps.microsoft.com": "INACTIVE",
+            "ocos-office365-s2s.msedge.net": "INACTIVE",
+            "officeclient.microsoft.com": "INACTIVE"
+        },
+        "1570681162": {
+            "optanon.blob.core.windows.net": "INACTIVE",
+            "pti.store.microsoft.com": "INACTIVE",
+            "purchase.mp.microsoft.com": "INACTIVE"
+        },
+        "1570681163": {
+            "r20swj13mr.microsoft.com": "INACTIVE"
+        },
+        "1570681292": {
+            "register.cdpcs.microsoft.com": "INACTIVE",
+            "s0.2mdn.net": "INACTIVE"
+        },
+        "1570681293": {
+            "service.weather.microsoft.com": "INACTIVE"
+        },
+        "1570681423": {
+            "settings.data.microsoft.com": "INACTIVE"
+        },
+        "1570681634": {
+            "settings-win.data.microsoft.com": "INACTIVE"
         }
     }
 }

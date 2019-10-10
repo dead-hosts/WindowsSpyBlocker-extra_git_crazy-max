@@ -91,3 +91,13 @@
 0.0.0.0 config.edge.skype.com
 0.0.0.0 config.teams.microsoft.com
 0.0.0.0 crl.microsoft.com
+0.0.0.0 evoke-windowsservices-tas.msedge.net
+0.0.0.0 fs.microsoft.com
+0.0.0.0 iecvlist.microsoft.com
+0.0.0.0 ipv4.login.live.com
+0.0.0.0 licensing.mp.microsoft.com
+0.0.0.0 logincdn.msauth.net
+0.0.0.0 login.live.com
+0.0.0.0 login.msa.akadns6.net
+0.0.0.0 manage.devcenter.microsoft.com
+0.0.0.0 msagfx.live.com

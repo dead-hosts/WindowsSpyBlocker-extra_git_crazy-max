@@ -129,6 +129,37 @@
         },
         "1570673519": {
             "europe.smartscreen-prod.microsoft.com": "INACTIVE"
+        },
+        "1570677043": {
+            "evoke-windowsservices-tas.msedge.net": "INACTIVE"
+        },
+        "1570677173": {
+            "feedback.search.microsoft.com": "INACTIVE"
+        },
+        "1570677304": {
+            "feedback.windows.com": "INACTIVE",
+            "fs.microsoft.com": "INACTIVE"
+        },
+        "1570677435": {
+            "global.sam.msn.com": "INACTIVE",
+            "iecvlist.microsoft.com": "INACTIVE"
+        },
+        "1570677566": {
+            "insiderservice.microsoft.com": "INACTIVE",
+            "ipv4.login.live.com": "INACTIVE",
+            "licensing.mp.microsoft.com": "INACTIVE"
+        },
+        "1570677567": {
+            "login.live.com": "INACTIVE",
+            "login.msa.akadns6.net": "INACTIVE",
+            "logincdn.msauth.net": "INACTIVE",
+            "manage.devcenter.microsoft.com": "INACTIVE"
+        },
+        "1570677568": {
+            "msagfx.live.com": "INACTIVE"
+        },
+        "1570677699": {
+            "nav.smartscreen.microsoft.com": "INACTIVE"
         }
     }
 }

@@ -141,3 +141,31 @@ dev.virtualearth.net                                                            
 dmd.metaservices.microsoft.com                                                                       Unknown           HTTP Code  403        Thu 10 Oct 02:10:02 UTC 2019
 dmd.metaservices.microsoft.com.akadns.net                                                            Unknown           HTTP Code  403        Thu 10 Oct 02:10:02 UTC 2019
 ecn.dev.virtualearth.net                                                                             Unknown           HTTP Code  302        Thu 10 Oct 02:10:02 UTC 2019
+a-msedge.net                                                                                         06-mar-2020       WHOIS      XXX        Thu 10 Oct 03:10:40 UTC 2019
+answers.microsoft.com                                                                                Unknown           HTTP Code  301        Thu 10 Oct 03:10:40 UTC 2019
+api.onedrive.com                                                                                     Unknown           HTTP Code  405        Thu 10 Oct 03:10:40 UTC 2019
+appex-rf.msn.com                                                                                     Unknown           HTTP Code  405        Thu 10 Oct 03:10:40 UTC 2019
+arc.msn.com                                                                                          Unknown           HTTP Code  403        Thu 10 Oct 03:10:40 UTC 2019
+arc.msn.com.nsatc.net                                                                                Unknown           HTTP Code  403        Thu 10 Oct 03:10:40 UTC 2019
+bingforbusiness.com                                                                                  12-mar-2020       WHOIS      301        Thu 10 Oct 03:10:40 UTC 2019
+c1.microsoft.com                                                                                     Unknown           HTTP Code  302        Thu 10 Oct 03:10:40 UTC 2019
+candycrushsoda.king.com                                                                              Unknown           HTTP Code  500        Thu 10 Oct 03:10:40 UTC 2019
+cdn.content.prod.cms.msn.com                                                                         Unknown           HTTP Code  405        Thu 10 Oct 03:10:40 UTC 2019
+cdn.onenote.net                                                                                      Unknown           HTTP Code  302        Thu 10 Oct 03:10:40 UTC 2019
+choice.microsoft.com                                                                                 Unknown           HTTP Code  301        Thu 10 Oct 03:10:40 UTC 2019
+feedback.microsoft-hohm.com                                                                          Unknown           DNSLOOKUP  301        Thu 10 Oct 03:10:40 UTC 2019
+finance.services.appex.bing.com                                                                      Unknown           HTTP Code  503        Thu 10 Oct 03:10:40 UTC 2019
+fr-fr.appex-rf.msn.com                                                                               Unknown           HTTP Code  405        Thu 10 Oct 03:10:40 UTC 2019
+g.bing.com                                                                                           Unknown           HTTP Code  302        Thu 10 Oct 03:10:40 UTC 2019
+g.live.com                                                                                           Unknown           HTTP Code  302        Thu 10 Oct 03:10:40 UTC 2019
+i1.services.social.microsoft.com                                                                     Unknown           HTTP Code  302        Thu 10 Oct 03:10:40 UTC 2019
+img-prod-cms-rt-microsoft-com.akamaized.net                                                          Unknown           HTTP Code  403        Thu 10 Oct 03:10:40 UTC 2019
+img-s-msn-com.akamaized.net                                                                          Unknown           HTTP Code  403        Thu 10 Oct 03:10:40 UTC 2019
+img.stb.s-msn.com                                                                                    Unknown           HTTP Code  403        Thu 10 Oct 03:10:40 UTC 2019
+inference.location.live.net                                                                          Unknown           HTTP Code  403        Thu 10 Oct 03:10:40 UTC 2019
+location-inference-westus.cloudapp.net                                                               Unknown           HTTP Code  403        Thu 10 Oct 03:10:40 UTC 2019
+login.microsoftonline.com                                                                            Unknown           HTTP Code  302        Thu 10 Oct 03:10:40 UTC 2019
+maps.windows.com                                                                                     Unknown           HTTP Code  302        Thu 10 Oct 03:10:40 UTC 2019
+m.hotmail.com                                                                                        Unknown           HTTP Code  301        Thu 10 Oct 03:10:40 UTC 2019
+mrodevicemgr.officeapps.live.com                                                                     Unknown           HTTP Code  302        Thu 10 Oct 03:10:40 UTC 2019
+msftncsi.com                                                                                         10-nov-2019       WHOIS      XXX        Thu 10 Oct 03:10:40 UTC 2019

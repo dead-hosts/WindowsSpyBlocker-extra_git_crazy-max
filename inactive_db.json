@@ -51,37 +51,29 @@
             "w.apprep.smartscreen.microsoft.com": "INACTIVE"
         },
         "1570668569": {
-            "a-0001.a-msedge.net": "INACTIVE",
             "a-0001.dc-msedge.net": "INACTIVE",
             "a-0002.a-msedge.net": "INACTIVE"
         },
         "1570668570": {
             "a-0003.a-msedge.net": "INACTIVE",
             "a-0003.dc-msedge.net": "INACTIVE",
-            "a-0004.a-msedge.net": "INACTIVE",
             "a-0005.a-msedge.net": "INACTIVE",
             "a-0006.a-msedge.net": "INACTIVE",
             "a-0007.a-msedge.net": "INACTIVE",
             "a-0008.a-msedge.net": "INACTIVE",
-            "a-0009.a-msedge.net": "INACTIVE",
             "a-0010.a-msedge.net": "INACTIVE"
         },
         "1570668571": {
             "a-0011.a-msedge.net": "INACTIVE",
             "a-0012.a-msedge.net": "INACTIVE"
         },
-        "1570668700": {
-            "activation.sls.microsoft.com": "INACTIVE"
-        },
         "1570668831": {
             "activation-v2.sls.microsoft.com": "INACTIVE"
         },
         "1570668832": {
-            "am3pap002.storage.live.com": "INACTIVE",
             "api.bing.com": "INACTIVE"
         },
         "1570668962": {
-            "ars.smartscreen.microsoft.com": "INACTIVE",
             "auth.gfx.ms": "INACTIVE"
         },
         "1570668963": {
@@ -93,23 +85,16 @@
         "1570669093": {
             "checkappexec.microsoft.com": "INACTIVE"
         },
-        "1570669224": {
-            "choice.microsoft.com.nsatc.net": "INACTIVE"
-        },
         "1570672864": {
             "client-office365-tas.msedge.net": "INACTIVE",
             "clientconfig.passport.net": "INACTIVE"
-        },
-        "1570672994": {
-            "client-s.gateway.messenger.live.com": "INACTIVE"
         },
         "1570673125": {
             "co2.sls.microsoft.com": "INACTIVE"
         },
         "1570673126": {
             "config.edge.skype.com": "INACTIVE",
-            "config.teams.microsoft.com": "INACTIVE",
-            "crl.microsoft.com": "INACTIVE"
+            "config.teams.microsoft.com": "INACTIVE"
         },
         "1570673257": {
             "device.auth.xboxlive.com": "INACTIVE"
@@ -140,10 +125,7 @@
             "licensing.mp.microsoft.com": "INACTIVE"
         },
         "1570677567": {
-            "login.live.com": "INACTIVE",
-            "login.msa.akadns6.net": "INACTIVE",
-            "logincdn.msauth.net": "INACTIVE",
-            "manage.devcenter.microsoft.com": "INACTIVE"
+            "login.msa.akadns6.net": "INACTIVE"
         },
         "1570677568": {
             "msagfx.live.com": "INACTIVE"
@@ -153,8 +135,7 @@
         },
         "1570681161": {
             "next-services.apps.microsoft.com": "INACTIVE",
-            "ocos-office365-s2s.msedge.net": "INACTIVE",
-            "officeclient.microsoft.com": "INACTIVE"
+            "ocos-office365-s2s.msedge.net": "INACTIVE"
         },
         "1570681162": {
             "optanon.blob.core.windows.net": "INACTIVE",
@@ -183,7 +164,6 @@
             "storage.live.com": "INACTIVE"
         },
         "1570685190": {
-            "store-images.microsoft.com": "INACTIVE",
             "store-images.s-microsoft.com": "INACTIVE"
         },
         "1570685191": {
@@ -212,22 +192,14 @@
         "1570685846": {
             "x.urs.microsoft.com": "INACTIVE"
         },
-        "1570689953": {
-            "apps.skype.com": "INACTIVE"
-        },
         "1570689954": {
             "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE",
             "foodanddrink.tile.appex.bing.com": "INACTIVE",
             "mediaredirect.microsoft.com": "INACTIVE",
-            "s.gateway.messenger.live.com": "INACTIVE",
-            "ui.skype.com": "INACTIVE"
+            "s.gateway.messenger.live.com": "INACTIVE"
         },
         "1570705320": {
             "ceuswatcab01.blob.core.windows.net": "INACTIVE"
-        },
-        "1570705324": {
-            "onedriveclucprodbn20001.blob.core.windows.net": "INACTIVE",
-            "onedriveclucprodbn20002.blob.core.windows.net": "INACTIVE"
         },
         "1570705325": {
             "onedriveclucprodbn20003.blob.core.windows.net": "INACTIVE",
@@ -253,14 +225,11 @@
         },
         "1570705328": {
             "onedriveclucprodbn20020.blob.core.windows.net": "INACTIVE",
-            "onedriveclucprodbn20021.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20022.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20023.blob.core.windows.net": "INACTIVE",
-            "onedriveclucprodbn20024.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20025.blob.core.windows.net": "INACTIVE"
         },
         "1570705329": {
-            "onedriveclucprodbn20026.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20027.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20028.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20029.blob.core.windows.net": "INACTIVE",
@@ -285,7 +254,6 @@
             "onedriveclucproddm20015.blob.core.windows.net": "INACTIVE"
         },
         "1570705332": {
-            "onedriveclucproddm20016.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20017.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20018.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20019.blob.core.windows.net": "INACTIVE",
@@ -295,7 +263,6 @@
         },
         "1570705333": {
             "onedriveclucproddm20024.blob.core.windows.net": "INACTIVE",
-            "onedriveclucproddm20025.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20026.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20027.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20028.blob.core.windows.net": "INACTIVE",
@@ -303,6 +270,43 @@
         },
         "1570705334": {
             "onedriveclucproddm20030.blob.core.windows.net": "INACTIVE"
+        },
+        "1570792670": {
+            "crl.microsoft.com": "INACTIVE",
+            "officeclient.microsoft.com": "INACTIVE",
+            "onedriveclucproddm20025.blob.core.windows.net": "INACTIVE"
+        },
+        "1570792801": {
+            "am3pap002.storage.live.com": "INACTIVE",
+            "apps.skype.com": "INACTIVE",
+            "choice.microsoft.com.nsatc.net": "INACTIVE",
+            "login.live.com": "INACTIVE",
+            "onedriveclucprodbn20024.blob.core.windows.net": "INACTIVE"
+        },
+        "1570792802": {
+            "a-0009.a-msedge.net": "INACTIVE",
+            "onedriveclucproddm20016.blob.core.windows.net": "INACTIVE"
+        },
+        "1570792932": {
+            "ars.smartscreen.microsoft.com": "INACTIVE"
+        },
+        "1570793063": {
+            "a-0001.a-msedge.net": "INACTIVE",
+            "activation.sls.microsoft.com": "INACTIVE",
+            "logincdn.msauth.net": "INACTIVE",
+            "onedriveclucprodbn20001.blob.core.windows.net": "INACTIVE",
+            "store-images.microsoft.com": "INACTIVE"
+        },
+        "1570793064": {
+            "a-0004.a-msedge.net": "INACTIVE",
+            "manage.devcenter.microsoft.com": "INACTIVE",
+            "onedriveclucprodbn20002.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20021.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20026.blob.core.windows.net": "INACTIVE",
+            "ui.skype.com": "INACTIVE"
+        },
+        "1570793194": {
+            "client-s.gateway.messenger.live.com": "INACTIVE"
         }
     }
 }

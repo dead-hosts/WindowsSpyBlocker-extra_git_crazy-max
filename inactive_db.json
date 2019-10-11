@@ -35,24 +35,14 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/domains.list": {
-        "1570663857": {
-            "urs.smartscreen.microsoft.com": "INACTIVE"
-        },
         "1570663988": {
             "validation.sls.microsoft.com": "INACTIVE"
         },
-        "1570664251": {
-            "w.apprep.smartscreen.microsoft.com": "INACTIVE"
-        },
         "1570668570": {
-            "a-0005.a-msedge.net": "INACTIVE",
-            "a-0007.a-msedge.net": "INACTIVE"
+            "a-0005.a-msedge.net": "INACTIVE"
         },
         "1570673125": {
             "co2.sls.microsoft.com": "INACTIVE"
-        },
-        "1570673257": {
-            "device.auth.xboxlive.com": "INACTIVE"
         },
         "1570673388": {
             "dns.msftncsi.com": "INACTIVE"
@@ -69,9 +59,6 @@
         },
         "1570677699": {
             "nav.smartscreen.microsoft.com": "INACTIVE"
-        },
-        "1570681161": {
-            "next-services.apps.microsoft.com": "INACTIVE"
         },
         "1570681162": {
             "optanon.blob.core.windows.net": "INACTIVE"
@@ -109,7 +96,6 @@
             "onedriveclucprodbn20004.blob.core.windows.net": "INACTIVE"
         },
         "1570705326": {
-            "onedriveclucprodbn20009.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20010.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20012.blob.core.windows.net": "INACTIVE"
         },
@@ -125,12 +111,10 @@
             "onedriveclucprodbn20025.blob.core.windows.net": "INACTIVE"
         },
         "1570705329": {
-            "onedriveclucprodbn20029.blob.core.windows.net": "INACTIVE",
-            "onedriveclucprodbn20030.blob.core.windows.net": "INACTIVE"
+            "onedriveclucprodbn20029.blob.core.windows.net": "INACTIVE"
         },
         "1570705330": {
-            "onedriveclucproddm20003.blob.core.windows.net": "INACTIVE",
-            "onedriveclucproddm20007.blob.core.windows.net": "INACTIVE"
+            "onedriveclucproddm20003.blob.core.windows.net": "INACTIVE"
         },
         "1570705331": {
             "onedriveclucproddm20012.blob.core.windows.net": "INACTIVE",
@@ -309,6 +293,28 @@
         },
         "1570806615": {
             "europe.smartscreen-prod.microsoft.com": "INACTIVE"
+        },
+        "1570810805": {
+            "onedriveclucproddm20007.blob.core.windows.net": "INACTIVE",
+            "urs.smartscreen.microsoft.com": "INACTIVE"
+        },
+        "1570810806": {
+            "a-0007.a-msedge.net": "INACTIVE"
+        },
+        "1570810936": {
+            "device.auth.xboxlive.com": "INACTIVE"
+        },
+        "1570810937": {
+            "onedriveclucprodbn20009.blob.core.windows.net": "INACTIVE"
+        },
+        "1570811067": {
+            "next-services.apps.microsoft.com": "INACTIVE"
+        },
+        "1570811068": {
+            "onedriveclucprodbn20030.blob.core.windows.net": "INACTIVE"
+        },
+        "1570811199": {
+            "w.apprep.smartscreen.microsoft.com": "INACTIVE"
         }
     }
 }

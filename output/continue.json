@@ -1,32 +1,3 @@
 {
-    "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/domains.list": {
-        "INACTIVE": [
-            "onedriveclucproddm20018.blob.core.windows.net",
-            "cy2.settings.data.microsoft.com.akadns.net",
-            "clientconfig.passport.net",
-            "onedriveclucprodbn20018.blob.core.windows.net",
-            "a-0001.dc-msedge.net",
-            "onedriveclucproddm20021.blob.core.windows.net",
-            "a-0007.a-msedge.net",
-            "onedriveclucprodbn20013.blob.core.windows.net",
-            "az361816.vo.msecnd.net",
-            "onedriveclucproddm20026.blob.core.windows.net",
-            "blob.weather.microsoft.com",
-            "ipv4.login.live.com",
-            "onedriveclucproddm20012.blob.core.windows.net",
-            "urs.smartscreen.microsoft.com",
-            "az512334.vo.msecnd.net",
-            "service.weather.microsoft.com",
-            "onedriveclucprodbn20012.blob.core.windows.net",
-            "onedriveclucprodbn20003.blob.core.windows.net",
-            "onedriveclucprodbn20025.blob.core.windows.net",
-            "dns.msftncsi.com",
-            "activation.sls.microsoft.com",
-            "next-services.apps.microsoft.com",
-            "onedriveclucproddm20011.blob.core.windows.net",
-            "onedriveclucprodbn20009.blob.core.windows.net",
-            "r20swj13mr.microsoft.com",
-            "feedback.search.microsoft.com"
-        ]
-    }
+    "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/domains.list": {}
 }

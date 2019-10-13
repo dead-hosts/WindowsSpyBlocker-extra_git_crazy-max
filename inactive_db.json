@@ -35,51 +35,6 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/domains.list": {
-        "1570792670": {
-            "crl.microsoft.com": "INACTIVE"
-        },
-        "1570793063": {
-            "a-0001.a-msedge.net": "INACTIVE"
-        },
-        "1570793064": {
-            "a-0004.a-msedge.net": "INACTIVE"
-        },
-        "1570797428": {
-            "s.gateway.messenger.live.com": "INACTIVE"
-        },
-        "1570797821": {
-            "onedriveclucprodbn20023.blob.core.windows.net": "INACTIVE"
-        },
-        "1570802167": {
-            "xml.login.live.com": "INACTIVE"
-        },
-        "1570805958": {
-            "a-0002.a-msedge.net": "INACTIVE",
-            "onedriveclucproddm20002.blob.core.windows.net": "INACTIVE"
-        },
-        "1570805959": {
-            "s0.2mdn.net": "INACTIVE"
-        },
-        "1570806089": {
-            "validation-v2.sls.microsoft.com": "INACTIVE"
-        },
-        "1570806484": {
-            "iecvlist.microsoft.com": "INACTIVE"
-        },
-        "1570806485": {
-            "a-0003.a-msedge.net": "INACTIVE",
-            "static.2mdn.net": "INACTIVE"
-        },
-        "1570815033": {
-            "mediaredirect.microsoft.com": "INACTIVE"
-        },
-        "1570815558": {
-            "tile-service.weather.microsoft.com": "INACTIVE",
-            "www.msftncsi.com": "INACTIVE"
-        },
-        "1570820093": {
-            "co2.sls.microsoft.com": "INACTIVE"
-        },
         "1570965033": {
             "a-0012.a-msedge.net": "INACTIVE"
         },
@@ -305,6 +260,33 @@
         },
         "1570987834": {
             "feedback.search.microsoft.com": "INACTIVE"
+        },
+        "1570991713": {
+            "mediaredirect.microsoft.com": "INACTIVE"
+        },
+        "1570991844": {
+            "a-0003.a-msedge.net": "INACTIVE",
+            "co2.sls.microsoft.com": "INACTIVE",
+            "www.msftncsi.com": "INACTIVE"
+        },
+        "1570991845": {
+            "crl.microsoft.com": "INACTIVE",
+            "s0.2mdn.net": "INACTIVE",
+            "tile-service.weather.microsoft.com": "INACTIVE",
+            "xml.login.live.com": "INACTIVE"
+        },
+        "1570991975": {
+            "a-0002.a-msedge.net": "INACTIVE",
+            "iecvlist.microsoft.com": "INACTIVE",
+            "onedriveclucproddm20002.blob.core.windows.net": "INACTIVE",
+            "validation-v2.sls.microsoft.com": "INACTIVE"
+        },
+        "1570991976": {
+            "a-0001.a-msedge.net": "INACTIVE",
+            "a-0004.a-msedge.net": "INACTIVE",
+            "onedriveclucprodbn20023.blob.core.windows.net": "INACTIVE",
+            "s.gateway.messenger.live.com": "INACTIVE",
+            "static.2mdn.net": "INACTIVE"
         }
     }
 }

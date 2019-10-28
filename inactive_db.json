@@ -35,66 +35,6 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/domains.list": {
-        "1572186956": {
-            "a-0001.a-msedge.net": "INACTIVE",
-            "a-0001.dc-msedge.net": "INACTIVE"
-        },
-        "1572186957": {
-            "a-0002.a-msedge.net": "INACTIVE",
-            "a-0003.a-msedge.net": "INACTIVE",
-            "a-0003.dc-msedge.net": "INACTIVE",
-            "a-0004.a-msedge.net": "INACTIVE",
-            "a-0005.a-msedge.net": "INACTIVE",
-            "a-0006.a-msedge.net": "INACTIVE",
-            "a-0007.a-msedge.net": "INACTIVE",
-            "a-0008.a-msedge.net": "INACTIVE",
-            "a-0009.a-msedge.net": "INACTIVE",
-            "a-0010.a-msedge.net": "INACTIVE",
-            "a-0011.a-msedge.net": "INACTIVE",
-            "a-0012.a-msedge.net": "INACTIVE"
-        },
-        "1572186963": {
-            "activation.sls.microsoft.com": "INACTIVE"
-        },
-        "1572186969": {
-            "activation-v2.sls.microsoft.com": "INACTIVE"
-        },
-        "1572186970": {
-            "am3pap002.storage.live.com": "INACTIVE",
-            "api.bing.com": "INACTIVE",
-            "apps.skype.com": "INACTIVE"
-        },
-        "1572186976": {
-            "ars.smartscreen.microsoft.com": "INACTIVE"
-        },
-        "1572186977": {
-            "auth.gfx.ms": "INACTIVE",
-            "az361816.vo.msecnd.net": "INACTIVE",
-            "az512334.vo.msecnd.net": "INACTIVE",
-            "blob.weather.microsoft.com": "INACTIVE",
-            "c-0001.dc-msedge.net": "INACTIVE"
-        },
-        "1572186978": {
-            "ceuswatcab01.blob.core.windows.net": "INACTIVE"
-        },
-        "1572186984": {
-            "checkappexec.microsoft.com": "INACTIVE"
-        },
-        "1572186990": {
-            "choice.microsoft.com.nsatc.net": "INACTIVE",
-            "client-office365-tas.msedge.net": "INACTIVE",
-            "clientconfig.passport.net": "INACTIVE"
-        },
-        "1572186996": {
-            "client-s.gateway.messenger.live.com": "INACTIVE"
-        },
-        "1572187002": {
-            "co2.sls.microsoft.com": "INACTIVE",
-            "config.edge.skype.com": "INACTIVE",
-            "config.teams.microsoft.com": "INACTIVE",
-            "crl.microsoft.com": "INACTIVE",
-            "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE"
-        },
         "1572187009": {
             "device.auth.xboxlive.com": "INACTIVE"
         },
@@ -282,6 +222,68 @@
         },
         "1572187159": {
             "x.urs.microsoft.com": "INACTIVE"
+        },
+        "1572273403": {
+            "a-0001.a-msedge.net": "INACTIVE",
+            "a-0001.dc-msedge.net": "INACTIVE",
+            "a-0002.a-msedge.net": "INACTIVE",
+            "a-0003.a-msedge.net": "INACTIVE",
+            "a-0003.dc-msedge.net": "INACTIVE",
+            "a-0004.a-msedge.net": "INACTIVE"
+        },
+        "1572273404": {
+            "a-0005.a-msedge.net": "INACTIVE",
+            "a-0006.a-msedge.net": "INACTIVE",
+            "a-0007.a-msedge.net": "INACTIVE",
+            "a-0008.a-msedge.net": "INACTIVE",
+            "a-0009.a-msedge.net": "INACTIVE",
+            "a-0010.a-msedge.net": "INACTIVE",
+            "a-0011.a-msedge.net": "INACTIVE",
+            "a-0012.a-msedge.net": "INACTIVE"
+        },
+        "1572273410": {
+            "activation.sls.microsoft.com": "INACTIVE"
+        },
+        "1572273416": {
+            "activation-v2.sls.microsoft.com": "INACTIVE"
+        },
+        "1572273417": {
+            "am3pap002.storage.live.com": "INACTIVE",
+            "api.bing.com": "INACTIVE",
+            "apps.skype.com": "INACTIVE"
+        },
+        "1572273424": {
+            "ars.smartscreen.microsoft.com": "INACTIVE",
+            "auth.gfx.ms": "INACTIVE"
+        },
+        "1572273426": {
+            "az361816.vo.msecnd.net": "INACTIVE",
+            "az512334.vo.msecnd.net": "INACTIVE",
+            "blob.weather.microsoft.com": "INACTIVE",
+            "c-0001.dc-msedge.net": "INACTIVE"
+        },
+        "1572273427": {
+            "ceuswatcab01.blob.core.windows.net": "INACTIVE"
+        },
+        "1572273433": {
+            "checkappexec.microsoft.com": "INACTIVE"
+        },
+        "1572273439": {
+            "choice.microsoft.com.nsatc.net": "INACTIVE",
+            "clientconfig.passport.net": "INACTIVE"
+        },
+        "1572273440": {
+            "client-office365-tas.msedge.net": "INACTIVE"
+        },
+        "1572273446": {
+            "client-s.gateway.messenger.live.com": "INACTIVE"
+        },
+        "1572273452": {
+            "co2.sls.microsoft.com": "INACTIVE",
+            "config.edge.skype.com": "INACTIVE",
+            "config.teams.microsoft.com": "INACTIVE",
+            "crl.microsoft.com": "INACTIVE",
+            "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE"
         }
     }
 }

@@ -35,7 +35,7 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/domains.list": {
-        "1572964869": {
+        "1573123675": {
             "a-0001.a-msedge.net": "INACTIVE",
             "a-0001.dc-msedge.net": "INACTIVE",
             "a-0002.a-msedge.net": "INACTIVE",
@@ -43,7 +43,9 @@
             "a-0003.dc-msedge.net": "INACTIVE",
             "a-0004.a-msedge.net": "INACTIVE",
             "a-0005.a-msedge.net": "INACTIVE",
-            "a-0006.a-msedge.net": "INACTIVE",
+            "a-0006.a-msedge.net": "INACTIVE"
+        },
+        "1573123676": {
             "a-0007.a-msedge.net": "INACTIVE",
             "a-0008.a-msedge.net": "INACTIVE",
             "a-0009.a-msedge.net": "INACTIVE",
@@ -51,232 +53,240 @@
             "a-0011.a-msedge.net": "INACTIVE",
             "a-0012.a-msedge.net": "INACTIVE"
         },
-        "1572964875": {
+        "1573123682": {
             "activation.sls.microsoft.com": "INACTIVE"
         },
-        "1572964882": {
+        "1573123688": {
             "activation-v2.sls.microsoft.com": "INACTIVE",
-            "am3pap002.storage.live.com": "INACTIVE",
+            "am3pap002.storage.live.com": "INACTIVE"
+        },
+        "1573123689": {
             "api.bing.com": "INACTIVE",
             "apps.skype.com": "INACTIVE"
         },
-        "1572964889": {
+        "1573123695": {
             "ars.smartscreen.microsoft.com": "INACTIVE",
             "auth.gfx.ms": "INACTIVE",
             "az361816.vo.msecnd.net": "INACTIVE",
-            "az512334.vo.msecnd.net": "INACTIVE",
+            "az512334.vo.msecnd.net": "INACTIVE"
+        },
+        "1573123696": {
             "blob.weather.microsoft.com": "INACTIVE",
             "c-0001.dc-msedge.net": "INACTIVE"
         },
-        "1572964891": {
+        "1573123697": {
             "ceuswatcab01.blob.core.windows.net": "INACTIVE"
         },
-        "1572964897": {
+        "1573123703": {
             "checkappexec.microsoft.com": "INACTIVE"
         },
-        "1572964903": {
+        "1573123709": {
             "choice.microsoft.com.nsatc.net": "INACTIVE",
             "client-office365-tas.msedge.net": "INACTIVE",
             "clientconfig.passport.net": "INACTIVE"
         },
-        "1572964909": {
+        "1573123715": {
             "client-s.gateway.messenger.live.com": "INACTIVE"
         },
-        "1572964915": {
+        "1573123721": {
             "co2.sls.microsoft.com": "INACTIVE",
-            "config.edge.skype.com": "INACTIVE"
-        },
-        "1572964916": {
+            "config.edge.skype.com": "INACTIVE",
             "config.teams.microsoft.com": "INACTIVE",
             "crl.microsoft.com": "INACTIVE",
             "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE"
         },
-        "1572964922": {
+        "1573123727": {
             "device.auth.xboxlive.com": "INACTIVE"
         },
-        "1572964928": {
+        "1573123734": {
             "dns.msftncsi.com": "INACTIVE"
         },
-        "1572964934": {
+        "1573123740": {
             "europe.smartscreen-prod.microsoft.com": "INACTIVE",
             "evoke-windowsservices-tas.msedge.net": "INACTIVE"
         },
-        "1572964941": {
+        "1573123746": {
             "feedback.search.microsoft.com": "INACTIVE"
         },
-        "1572964947": {
+        "1573123753": {
             "feedback.windows.com": "INACTIVE",
             "foodanddrink.tile.appex.bing.com": "INACTIVE",
             "fs.microsoft.com": "INACTIVE"
         },
-        "1572964954": {
-            "global.sam.msn.com": "INACTIVE",
+        "1573123759": {
+            "global.sam.msn.com": "INACTIVE"
+        },
+        "1573123760": {
             "iecvlist.microsoft.com": "INACTIVE"
         },
-        "1572964960": {
+        "1573123766": {
             "insiderservice.microsoft.com": "INACTIVE",
-            "ipv4.login.live.com": "INACTIVE"
+            "ipv4.login.live.com": "INACTIVE",
+            "licensing.mp.microsoft.com": "INACTIVE"
         },
-        "1572964961": {
-            "licensing.mp.microsoft.com": "INACTIVE",
+        "1573123767": {
             "login.live.com": "INACTIVE",
             "login.msa.akadns6.net": "INACTIVE",
             "logincdn.msauth.net": "INACTIVE",
-            "manage.devcenter.microsoft.com": "INACTIVE"
-        },
-        "1572964962": {
+            "manage.devcenter.microsoft.com": "INACTIVE",
             "mediaredirect.microsoft.com": "INACTIVE"
         },
-        "1572964963": {
+        "1573123768": {
             "msagfx.live.com": "INACTIVE"
         },
-        "1572964969": {
+        "1573123774": {
             "nav.smartscreen.microsoft.com": "INACTIVE"
         },
-        "1572964975": {
+        "1573123780": {
             "next-services.apps.microsoft.com": "INACTIVE",
-            "ocos-office365-s2s.msedge.net": "INACTIVE",
-            "officeclient.microsoft.com": "INACTIVE"
+            "ocos-office365-s2s.msedge.net": "INACTIVE"
         },
-        "1572964976": {
+        "1573123781": {
+            "officeclient.microsoft.com": "INACTIVE",
             "onedriveclucprodbn20001.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20002.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20003.blob.core.windows.net": "INACTIVE",
-            "onedriveclucprodbn20004.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20004.blob.core.windows.net": "INACTIVE"
+        },
+        "1573123782": {
             "onedriveclucprodbn20005.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20006.blob.core.windows.net": "INACTIVE",
-            "onedriveclucprodbn20007.blob.core.windows.net": "INACTIVE"
-        },
-        "1572964977": {
+            "onedriveclucprodbn20007.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20008.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20009.blob.core.windows.net": "INACTIVE",
-            "onedriveclucprodbn20010.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20010.blob.core.windows.net": "INACTIVE"
+        },
+        "1573123783": {
             "onedriveclucprodbn20011.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20012.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20013.blob.core.windows.net": "INACTIVE",
-            "onedriveclucprodbn20014.blob.core.windows.net": "INACTIVE"
-        },
-        "1572964978": {
+            "onedriveclucprodbn20014.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20016.blob.core.windows.net": "INACTIVE",
-            "onedriveclucprodbn20017.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20017.blob.core.windows.net": "INACTIVE"
+        },
+        "1573123784": {
             "onedriveclucprodbn20018.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20019.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20020.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20021.blob.core.windows.net": "INACTIVE",
-            "onedriveclucprodbn20022.blob.core.windows.net": "INACTIVE"
-        },
-        "1572964979": {
+            "onedriveclucprodbn20022.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20023.blob.core.windows.net": "INACTIVE",
-            "onedriveclucprodbn20024.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20024.blob.core.windows.net": "INACTIVE"
+        },
+        "1573123785": {
             "onedriveclucprodbn20025.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20026.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20027.blob.core.windows.net": "INACTIVE",
             "onedriveclucprodbn20028.blob.core.windows.net": "INACTIVE",
-            "onedriveclucprodbn20029.blob.core.windows.net": "INACTIVE"
+            "onedriveclucprodbn20029.blob.core.windows.net": "INACTIVE",
+            "onedriveclucprodbn20030.blob.core.windows.net": "INACTIVE"
         },
-        "1572964980": {
-            "onedriveclucprodbn20030.blob.core.windows.net": "INACTIVE",
+        "1573123786": {
             "onedriveclucproddm20001.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20002.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20003.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20004.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20005.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20006.blob.core.windows.net": "INACTIVE",
-            "onedriveclucproddm20007.blob.core.windows.net": "INACTIVE"
+            "onedriveclucproddm20007.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20008.blob.core.windows.net": "INACTIVE"
         },
-        "1572964981": {
-            "onedriveclucproddm20008.blob.core.windows.net": "INACTIVE",
+        "1573123787": {
             "onedriveclucproddm20009.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20011.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20012.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20013.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20014.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20015.blob.core.windows.net": "INACTIVE",
-            "onedriveclucproddm20016.blob.core.windows.net": "INACTIVE"
+            "onedriveclucproddm20016.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20017.blob.core.windows.net": "INACTIVE"
         },
-        "1572964982": {
-            "onedriveclucproddm20017.blob.core.windows.net": "INACTIVE",
+        "1573123788": {
             "onedriveclucproddm20018.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20019.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20020.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20021.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20023.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20024.blob.core.windows.net": "INACTIVE",
-            "onedriveclucproddm20025.blob.core.windows.net": "INACTIVE"
+            "onedriveclucproddm20025.blob.core.windows.net": "INACTIVE",
+            "onedriveclucproddm20026.blob.core.windows.net": "INACTIVE"
         },
-        "1572964983": {
-            "onedriveclucproddm20026.blob.core.windows.net": "INACTIVE",
+        "1573123789": {
             "onedriveclucproddm20027.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20028.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20029.blob.core.windows.net": "INACTIVE",
             "onedriveclucproddm20030.blob.core.windows.net": "INACTIVE",
             "optanon.blob.core.windows.net": "INACTIVE"
         },
-        "1572964984": {
+        "1573123790": {
             "pti.store.microsoft.com": "INACTIVE",
             "purchase.mp.microsoft.com": "INACTIVE",
             "r20swj13mr.microsoft.com": "INACTIVE"
         },
-        "1572964991": {
-            "register.cdpcs.microsoft.com": "INACTIVE",
+        "1573123796": {
+            "register.cdpcs.microsoft.com": "INACTIVE"
+        },
+        "1573123797": {
             "s0.2mdn.net": "INACTIVE",
             "service.weather.microsoft.com": "INACTIVE"
         },
-        "1572964997": {
+        "1573123803": {
             "settings.data.microsoft.com": "INACTIVE"
         },
-        "1572965003": {
+        "1573123809": {
             "settings-ssl.xboxlive.com": "INACTIVE"
         },
-        "1572965009": {
+        "1573123815": {
             "s.gateway.messenger.live.com": "INACTIVE",
             "settings-win.data.microsoft.com": "INACTIVE",
-            "sfdataservice.microsoft.com": "INACTIVE"
+            "sfdataservice.microsoft.com": "INACTIVE",
+            "static.2mdn.net": "INACTIVE"
         },
-        "1572965010": {
-            "static.2mdn.net": "INACTIVE",
+        "1573123816": {
             "storage.live.com": "INACTIVE",
             "store-images.microsoft.com": "INACTIVE",
             "store-images.s-microsoft.com": "INACTIVE"
         },
-        "1572965011": {
+        "1573123817": {
             "tile-service.weather.microsoft.com": "INACTIVE",
             "time.windows.com": "INACTIVE"
         },
-        "1572965017": {
+        "1573123823": {
             "tk2.plt.msn.com": "INACTIVE"
         },
-        "1572965023": {
+        "1573123829": {
             "t.urs.microsoft.com": "INACTIVE",
             "ui.skype.com": "INACTIVE"
         },
-        "1572965029": {
+        "1573123835": {
             "urs.microsoft.com": "INACTIVE"
         },
-        "1572965035": {
+        "1573123842": {
             "urs.smartscreen.microsoft.com": "INACTIVE"
         },
-        "1572965041": {
+        "1573123848": {
             "validation.sls.microsoft.com": "INACTIVE"
         },
-        "1572965047": {
+        "1573123854": {
             "validation-v2.sls.microsoft.com": "INACTIVE"
         },
-        "1572965054": {
+        "1573123860": {
             "w.apprep.smartscreen.microsoft.com": "INACTIVE"
         },
-        "1572965060": {
+        "1573123866": {
             "wdcpalt.microsoft.com": "INACTIVE"
         },
-        "1572965066": {
+        "1573123872": {
             "wdcp.microsoft.com": "INACTIVE",
             "win10-trt.msedge.net": "INACTIVE"
         },
-        "1572965067": {
-            "www.msftncsi.com": "INACTIVE",
+        "1573123873": {
+            "www.msftncsi.com": "INACTIVE"
+        },
+        "1573123874": {
             "xml.login.live.com": "INACTIVE"
         },
-        "1572965073": {
+        "1573123880": {
             "x.urs.microsoft.com": "INACTIVE"
         }
     }

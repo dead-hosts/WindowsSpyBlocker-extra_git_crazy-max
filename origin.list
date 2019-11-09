@@ -1,6 +1,6 @@
 ### WindowsSpyBlocker - Hosts extra rules
 ### License: MIT
-### Updated: 2019-10-09T01:10:00Z02:00
+### Updated: 2019-11-09T09:28:00Z01:00
 ### Donate: https://www.patreon.com/crazymax ; https://www.paypal.me/crazyws
 ### More info: https://github.com/crazy-max/WindowsSpyBlocker
 
@@ -147,6 +147,7 @@
 0.0.0.0 onedriveclucproddm20019.blob.core.windows.net
 0.0.0.0 onedriveclucproddm20020.blob.core.windows.net
 0.0.0.0 onedriveclucproddm20021.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20022.blob.core.windows.net
 0.0.0.0 onedriveclucproddm20023.blob.core.windows.net
 0.0.0.0 onedriveclucproddm20024.blob.core.windows.net
 0.0.0.0 onedriveclucproddm20025.blob.core.windows.net

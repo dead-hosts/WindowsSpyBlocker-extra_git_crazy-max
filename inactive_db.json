@@ -35,33 +35,33 @@
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/domains.list": {
-        "1574160530": {
+        "1574261441": {
             "apps.skype.com": "INACTIVE"
         },
-        "1574160538": {
+        "1574261448": {
             "choice.microsoft.com.nsatc.net": "INACTIVE"
         },
-        "1574160545": {
-            "co2.sls.microsoft.com": "INACTIVE"
-        },
-        "1574160546": {
+        "1574261455": {
+            "co2.sls.microsoft.com": "INACTIVE",
             "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE",
             "dmd.metaservices.microsoft.com.akadns.net": "INACTIVE"
         },
-        "1574160552": {
+        "1574261462": {
             "dns.msftncsi.com": "INACTIVE"
         },
-        "1574160553": {
+        "1574261463": {
             "foodanddrink.tile.appex.bing.com": "INACTIVE"
         },
-        "1574160555": {
+        "1574261465": {
             "mediaredirect.microsoft.com": "INACTIVE"
         },
-        "1574160566": {
+        "1574261472": {
             "s.gateway.messenger.live.com": "INACTIVE"
         },
-        "1574160573": {
-            "tk2.plt.msn.com": "INACTIVE",
+        "1574261479": {
+            "tk2.plt.msn.com": "INACTIVE"
+        },
+        "1574261480": {
             "ui.skype.com": "INACTIVE"
         }
     }

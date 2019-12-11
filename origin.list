@@ -1,6 +1,6 @@
 ### WindowsSpyBlocker - Hosts extra rules
 ### License: MIT
-### Updated: 2019-11-09T09:28:00Z01:00
+### Updated: 2019-12-09T21:54:00Z01:00
 ### Donate: https://github.com/sponsors/crazy-max ; https://www.paypal.me/crazyws
 ### More info: https://github.com/crazy-max/WindowsSpyBlocker
 
@@ -22,6 +22,7 @@
 0.0.0.0 activation.sls.microsoft.com
 0.0.0.0 activation-v2.sls.microsoft.com
 0.0.0.0 am3pap002.storage.live.com
+0.0.0.0 am3pap004.storage.live.com
 0.0.0.0 answers.microsoft.com
 0.0.0.0 api.bing.com
 0.0.0.0 api.onedrive.com
@@ -33,6 +34,7 @@
 0.0.0.0 auth.gfx.ms
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
+0.0.0.0 az725175.vo.msecnd.net
 0.0.0.0 bingforbusiness.com
 0.0.0.0 blob.weather.microsoft.com
 0.0.0.0 c-0001.dc-msedge.net
@@ -58,6 +60,7 @@
 0.0.0.0 dmd.metaservices.microsoft.com.akadns.net
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 ecn.dev.virtualearth.net
+0.0.0.0 edgetipscdn.microsoft.com
 0.0.0.0 europe.smartscreen-prod.microsoft.com
 0.0.0.0 evoke-windowsservices-tas.msedge.net
 0.0.0.0 feedback.microsoft-hohm.com
@@ -159,6 +162,7 @@
 0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 otf.msn.com
 0.0.0.0 outlook.office365.com
+0.0.0.0 packages.dmd.metaservices.microsoft.com
 0.0.0.0 pti.store.microsoft.com
 0.0.0.0 purchase.mp.microsoft.com
 0.0.0.0 query.prod.cms.rt.microsoft.com

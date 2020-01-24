@@ -61,6 +61,8 @@
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 ecn.dev.virtualearth.net
 0.0.0.0 edgetipscdn.microsoft.com
+0.0.0.0 eu.vortex.data.microsoft.com
+0.0.0.0 eu.vortex-win.data.microsoft.com
 0.0.0.0 europe.smartscreen-prod.microsoft.com
 0.0.0.0 evoke-windowsservices-tas.msedge.net
 0.0.0.0 feedback.microsoft-hohm.com
@@ -196,9 +198,12 @@
 0.0.0.0 ui.skype.com
 0.0.0.0 urs.microsoft.com
 0.0.0.0 urs.smartscreen.microsoft.com
+0.0.0.0 us.vortex-win.data.microsoft.com
 0.0.0.0 validation.sls.microsoft.com
 0.0.0.0 validation-v2.sls.microsoft.com
 0.0.0.0 version.hybrid.api.here.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 vortex-win-sandbox.data.microsoft.com
 0.0.0.0 w.apprep.smartscreen.microsoft.com
 0.0.0.0 wallet.microsoft.com
 0.0.0.0 wdcp.microsoft.com

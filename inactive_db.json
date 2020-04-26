@@ -1,50 +1,97 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker_extra.list": {
-        "1560777832": {},
-        "1560864007": {},
-        "1560950639": {},
-        "1561123513": {},
-        "1561296932": {},
-        "1561469360": {},
-        "1561642571": {},
-        "1561815516": {},
-        "1561989068": {},
-        "1562163655": {},
-        "1562333539": {},
-        "1562507269": {},
-        "1562679591": {},
-        "1562852449": {},
-        "1563025488": {},
-        "1563198100": {},
-        "1563371267": {},
-        "1563543579": {},
-        "1563716332": {},
-        "1563802869": {},
-        "1564062147": {},
-        "1564235037": {},
-        "1564407826": {},
-        "1564580784": {},
-        "1564840074": {},
-        "1565531514": {
-            "apps.skype.com": "INACTIVE",
-            "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE",
-            "foodanddrink.tile.appex.bing.com": "INACTIVE",
-            "mediaredirect.microsoft.com": "INACTIVE",
-            "s.gateway.messenger.live.com": "INACTIVE",
-            "ui.skype.com": "INACTIVE"
+        "apps.skype.com": {
+            "included_at_epoch": 1565531514.0,
+            "included_at_iso": "2019-08-11T13:51:54",
+            "last_retested_at_epoch": 1565531514.0,
+            "last_retested_at_iso": "2019-08-11T13:51:54",
+            "status": "INACTIVE"
+        },
+        "cy2.settings.data.microsoft.com.akadns.net": {
+            "included_at_epoch": 1565531514.0,
+            "included_at_iso": "2019-08-11T13:51:54",
+            "last_retested_at_epoch": 1565531514.0,
+            "last_retested_at_iso": "2019-08-11T13:51:54",
+            "status": "INACTIVE"
+        },
+        "foodanddrink.tile.appex.bing.com": {
+            "included_at_epoch": 1565531514.0,
+            "included_at_iso": "2019-08-11T13:51:54",
+            "last_retested_at_epoch": 1565531514.0,
+            "last_retested_at_iso": "2019-08-11T13:51:54",
+            "status": "INACTIVE"
+        },
+        "mediaredirect.microsoft.com": {
+            "included_at_epoch": 1565531514.0,
+            "included_at_iso": "2019-08-11T13:51:54",
+            "last_retested_at_epoch": 1565531514.0,
+            "last_retested_at_iso": "2019-08-11T13:51:54",
+            "status": "INACTIVE"
+        },
+        "s.gateway.messenger.live.com": {
+            "included_at_epoch": 1565531514.0,
+            "included_at_iso": "2019-08-11T13:51:54",
+            "last_retested_at_epoch": 1565531514.0,
+            "last_retested_at_iso": "2019-08-11T13:51:54",
+            "status": "INACTIVE"
+        },
+        "ui.skype.com": {
+            "included_at_epoch": 1565531514.0,
+            "included_at_iso": "2019-08-11T13:51:54",
+            "last_retested_at_epoch": 1565531514.0,
+            "last_retested_at_iso": "2019-08-11T13:51:54",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/domains.list": {
-        "1587143676": {
-            "apps.skype.com": "INACTIVE",
-            "cy2.settings.data.microsoft.com.akadns.net": "INACTIVE",
-            "dmd.metaservices.microsoft.com.akadns.net": "INACTIVE",
-            "foodanddrink.tile.appex.bing.com": "INACTIVE",
-            "mediaredirect.microsoft.com": "INACTIVE"
+        "apps.skype.com": {
+            "included_at_epoch": 1587143676.0,
+            "included_at_iso": "2020-04-17T17:14:36",
+            "last_retested_at_epoch": 1587919071.797707,
+            "last_retested_at_iso": "2020-04-26T16:37:51.797707",
+            "status": "INACTIVE"
         },
-        "1587143677": {
-            "s.gateway.messenger.live.com": "INACTIVE",
-            "ui.skype.com": "INACTIVE"
+        "cy2.settings.data.microsoft.com.akadns.net": {
+            "included_at_epoch": 1587143676.0,
+            "included_at_iso": "2020-04-17T17:14:36",
+            "last_retested_at_epoch": 1587919071.824955,
+            "last_retested_at_iso": "2020-04-26T16:37:51.824955",
+            "status": "INACTIVE"
+        },
+        "dmd.metaservices.microsoft.com.akadns.net": {
+            "included_at_epoch": 1587143676.0,
+            "included_at_iso": "2020-04-17T17:14:36",
+            "last_retested_at_epoch": 1587919071.829506,
+            "last_retested_at_iso": "2020-04-26T16:37:51.829506",
+            "status": "INACTIVE"
+        },
+        "foodanddrink.tile.appex.bing.com": {
+            "included_at_epoch": 1587143676.0,
+            "included_at_iso": "2020-04-17T17:14:36",
+            "last_retested_at_epoch": 1587919071.841639,
+            "last_retested_at_iso": "2020-04-26T16:37:51.841639",
+            "status": "INACTIVE"
+        },
+        "mediaredirect.microsoft.com": {
+            "included_at_epoch": 1587143676.0,
+            "included_at_iso": "2020-04-17T17:14:36",
+            "last_retested_at_epoch": 1587919071.868281,
+            "last_retested_at_iso": "2020-04-26T16:37:51.868281",
+            "status": "INACTIVE"
+        },
+        "s.gateway.messenger.live.com": {
+            "included_at_epoch": 1587143677.0,
+            "included_at_iso": "2020-04-17T17:14:37",
+            "last_retested_at_epoch": 1587919071.94966,
+            "last_retested_at_iso": "2020-04-26T16:37:51.949660",
+            "status": "INACTIVE"
+        },
+        "ui.skype.com": {
+            "included_at_epoch": 1587143677.0,
+            "included_at_iso": "2020-04-17T17:14:37",
+            "last_retested_at_epoch": 1587919071.973794,
+            "last_retested_at_iso": "2020-04-26T16:37:51.973794",
+            "status": "INACTIVE"
         }
     }
 }

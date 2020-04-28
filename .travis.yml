@@ -7,7 +7,6 @@ env:
     -   secure: zVlfbiXIkFYIaPLP7yElM9OXl8/mCbSD6Tl/0ITvukaRhArQZFk4wBpVRgLG2fUV4RGXTq4qTXBDrhmlrcktts8tVQlI9mvuNYcvdt/SjSGnLRaTfv7xK+a/N+NU0RTShzaNG9E/X2b5yqlpiO6+UzcNOu/eV3tJJ9seF9Bg2zFhlJsHm1ke/WtnsnMApQ1eVwDhR3+mulKZQA0WAA3P1zK7fBUOv5W3n0DlRMTV2yYpPWMHYIuP3CiG5q0arHTso3VNRGHD7BTTZ8FLHIm0T9dWbwkJM1jPrxvoqYL4hB4pow39e/+HPMD70j0KsvwJXTdOx757gs7maG4DmYWxLym8gCYC1aOBLC9pP7bbD5xlXioPGhq6mQ0xO404MHru96c1bjn4sT6qBweTeO4bi10UR5/LXs6dUPrcRu/3d2RYAucYyRi9sV7J04ISOzivgNRYvbfinama4BepBE6kJo9YSDqNT9rjlrd+9XJpAUcFHWUVh+erjRDZpE8kQV10did170KqraK1N+1Esnb5k9Iv9y8hbMyHjU0DtogKRNZy8I1W9a8a/vlyc5HBJqHTh1VWqbaJDGiJZXA03h8M389Es55mEsH73qcNFAMOSmFlcsxc7R5QgZu9rZhREGoiF/R2maSwl1qVbDSoJoTAO5KuuOFmu9ZqdPC1kkxu/vQ=
     -   GIT_NAME: Travis CI
     -   GIT_EMAIL: dead-hosts@funilrys.com
-    -   TRAVIS_REPO_SLUG: dead-hosts/WindowsSpyBlocker-extra_git_crazy-max
     -   GIT_BRANCH: master
     matrix:
     - PYTHON_VERSION="3.7.3"
@@ -30,7 +29,7 @@ notifications:
         on_failure: always
         on_success: never
         recipients:
-        - dead-hosts@funilrys.com
+        - dead-hosts@outlook.com
 os:
 - linux
 script:

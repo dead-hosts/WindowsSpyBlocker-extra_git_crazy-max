@@ -47,57 +47,57 @@
         "apps.skype.com": {
             "included_at_epoch": 1589646267.923405,
             "included_at_iso": "2020-05-16T16:24:27.923405",
-            "last_retested_at_epoch": 1590510520.070937,
-            "last_retested_at_iso": "2020-05-26T16:28:40.070937",
+            "last_retested_at_epoch": 1590683376.630774,
+            "last_retested_at_iso": "2020-05-28T16:29:36.630774",
             "status": "INACTIVE"
         },
         "cy2.settings.data.microsoft.com.akadns.net": {
             "included_at_epoch": 1589646267.947249,
             "included_at_iso": "2020-05-16T16:24:27.947249",
-            "last_retested_at_epoch": 1590510520.101613,
-            "last_retested_at_iso": "2020-05-26T16:28:40.101613",
+            "last_retested_at_epoch": 1590683376.659621,
+            "last_retested_at_iso": "2020-05-28T16:29:36.659621",
             "status": "INACTIVE"
         },
         "dmd.metaservices.microsoft.com.akadns.net": {
             "included_at_epoch": 1589646267.951237,
             "included_at_iso": "2020-05-16T16:24:27.951237",
-            "last_retested_at_epoch": 1590510520.105303,
-            "last_retested_at_iso": "2020-05-26T16:28:40.105303",
+            "last_retested_at_epoch": 1590683376.664771,
+            "last_retested_at_iso": "2020-05-28T16:29:36.664771",
             "status": "INACTIVE"
         },
         "feedback.microsoft-hohm.com": {
             "included_at_epoch": 1588695794.583459,
             "included_at_iso": "2020-05-05T16:23:14.583459",
-            "last_retested_at_epoch": 1590510520.11955,
-            "last_retested_at_iso": "2020-05-26T16:28:40.119550",
+            "last_retested_at_epoch": 1590683376.677436,
+            "last_retested_at_iso": "2020-05-28T16:29:36.677436",
             "status": "INACTIVE"
         },
         "foodanddrink.tile.appex.bing.com": {
             "included_at_epoch": 1589646267.966985,
             "included_at_iso": "2020-05-16T16:24:27.966985",
-            "last_retested_at_epoch": 1590510520.12598,
-            "last_retested_at_iso": "2020-05-26T16:28:40.125980",
+            "last_retested_at_epoch": 1590683376.683339,
+            "last_retested_at_iso": "2020-05-28T16:29:36.683339",
             "status": "INACTIVE"
         },
         "mediaredirect.microsoft.com": {
             "included_at_epoch": 1589646267.992378,
             "included_at_iso": "2020-05-16T16:24:27.992378",
-            "last_retested_at_epoch": 1590510520.154049,
-            "last_retested_at_iso": "2020-05-26T16:28:40.154049",
+            "last_retested_at_epoch": 1590683376.709943,
+            "last_retested_at_iso": "2020-05-28T16:29:36.709943",
             "status": "INACTIVE"
         },
         "s.gateway.messenger.live.com": {
             "included_at_epoch": 1589646268.077992,
             "included_at_iso": "2020-05-16T16:24:28.077992",
-            "last_retested_at_epoch": 1590510520.24502,
-            "last_retested_at_iso": "2020-05-26T16:28:40.245020",
+            "last_retested_at_epoch": 1590683376.804398,
+            "last_retested_at_iso": "2020-05-28T16:29:36.804398",
             "status": "INACTIVE"
         },
         "ui.skype.com": {
             "included_at_epoch": 1589646268.106381,
             "included_at_iso": "2020-05-16T16:24:28.106381",
-            "last_retested_at_epoch": 1590510520.269455,
-            "last_retested_at_iso": "2020-05-26T16:28:40.269455",
+            "last_retested_at_epoch": 1590683376.833326,
+            "last_retested_at_iso": "2020-05-28T16:29:36.833326",
             "status": "INACTIVE"
         }
     }

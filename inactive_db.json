@@ -45,59 +45,59 @@
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/domains.list": {
         "apps.skype.com": {
-            "included_at_epoch": 1592066259.662901,
-            "included_at_iso": "2020-06-13T16:37:39.662901",
-            "last_retested_at_epoch": 1594314627.201398,
-            "last_retested_at_iso": "2020-07-09T17:10:27.201398",
+            "included_at_epoch": 1594487111.876174,
+            "included_at_iso": "2020-07-11T17:05:11.876174",
+            "last_retested_at_epoch": 1594487111.876174,
+            "last_retested_at_iso": "2020-07-11T17:05:11.876174",
             "status": "INACTIVE"
         },
         "cy2.settings.data.microsoft.com.akadns.net": {
-            "included_at_epoch": 1592066259.689437,
-            "included_at_iso": "2020-06-13T16:37:39.689437",
-            "last_retested_at_epoch": 1594314627.223479,
-            "last_retested_at_iso": "2020-07-09T17:10:27.223479",
+            "included_at_epoch": 1594487111.899031,
+            "included_at_iso": "2020-07-11T17:05:11.899031",
+            "last_retested_at_epoch": 1594487111.899031,
+            "last_retested_at_iso": "2020-07-11T17:05:11.899031",
             "status": "INACTIVE"
         },
         "dmd.metaservices.microsoft.com.akadns.net": {
-            "included_at_epoch": 1592066259.693891,
-            "included_at_iso": "2020-06-13T16:37:39.693891",
-            "last_retested_at_epoch": 1594314627.227235,
-            "last_retested_at_iso": "2020-07-09T17:10:27.227235",
+            "included_at_epoch": 1594487111.901984,
+            "included_at_iso": "2020-07-11T17:05:11.901984",
+            "last_retested_at_epoch": 1594487111.901984,
+            "last_retested_at_iso": "2020-07-11T17:05:11.901984",
             "status": "INACTIVE"
         },
         "feedback.microsoft-hohm.com": {
             "included_at_epoch": 1593622461.392562,
             "included_at_iso": "2020-07-01T16:54:21.392562",
-            "last_retested_at_epoch": 1594314627.236956,
-            "last_retested_at_iso": "2020-07-09T17:10:27.236956",
+            "last_retested_at_epoch": 1594487111.91284,
+            "last_retested_at_iso": "2020-07-11T17:05:11.912840",
             "status": "INACTIVE"
         },
         "foodanddrink.tile.appex.bing.com": {
-            "included_at_epoch": 1592066259.710438,
-            "included_at_iso": "2020-06-13T16:37:39.710438",
-            "last_retested_at_epoch": 1594314627.241635,
-            "last_retested_at_iso": "2020-07-09T17:10:27.241635",
+            "included_at_epoch": 1594487111.918083,
+            "included_at_iso": "2020-07-11T17:05:11.918083",
+            "last_retested_at_epoch": 1594487111.918083,
+            "last_retested_at_iso": "2020-07-11T17:05:11.918083",
             "status": "INACTIVE"
         },
         "mediaredirect.microsoft.com": {
-            "included_at_epoch": 1592066259.736306,
-            "included_at_iso": "2020-06-13T16:37:39.736306",
-            "last_retested_at_epoch": 1594314627.264934,
-            "last_retested_at_iso": "2020-07-09T17:10:27.264934",
+            "included_at_epoch": 1594487111.940301,
+            "included_at_iso": "2020-07-11T17:05:11.940301",
+            "last_retested_at_epoch": 1594487111.940301,
+            "last_retested_at_iso": "2020-07-11T17:05:11.940301",
             "status": "INACTIVE"
         },
         "s.gateway.messenger.live.com": {
-            "included_at_epoch": 1592066259.8183,
-            "included_at_iso": "2020-06-13T16:37:39.818300",
-            "last_retested_at_epoch": 1594314627.349297,
-            "last_retested_at_iso": "2020-07-09T17:10:27.349297",
+            "included_at_epoch": 1594487112.020643,
+            "included_at_iso": "2020-07-11T17:05:12.020643",
+            "last_retested_at_epoch": 1594487112.020643,
+            "last_retested_at_iso": "2020-07-11T17:05:12.020643",
             "status": "INACTIVE"
         },
         "ui.skype.com": {
-            "included_at_epoch": 1592066259.841901,
-            "included_at_iso": "2020-06-13T16:37:39.841901",
-            "last_retested_at_epoch": 1594314627.373848,
-            "last_retested_at_iso": "2020-07-09T17:10:27.373848",
+            "included_at_epoch": 1594487112.050462,
+            "included_at_iso": "2020-07-11T17:05:12.050462",
+            "last_retested_at_epoch": 1594487112.050462,
+            "last_retested_at_iso": "2020-07-11T17:05:12.050462",
             "status": "INACTIVE"
         }
     }

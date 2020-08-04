@@ -1,6 +1,6 @@
 ### WindowsSpyBlocker - Hosts extra rules
 ### License: MIT
-### Updated: 2020-05-07T23:44:00Z02:00
+### Updated: 2020-08-02T16:29:00Z02:00
 ### Donate: https://github.com/sponsors/crazy-max ; https://www.paypal.me/crazyws
 ### More info: https://github.com/crazy-max/WindowsSpyBlocker
 
@@ -176,6 +176,7 @@
 0.0.0.0 r20swj13mr.microsoft.com
 0.0.0.0 register.cdpcs.microsoft.com
 0.0.0.0 ris.api.iris.microsoft.com
+0.0.0.0 roaming.officeapps.live.com
 0.0.0.0 s.gateway.messenger.live.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s2s.config.skype.com
@@ -201,6 +202,7 @@
 0.0.0.0 tile-service.weather.microsoft.com
 0.0.0.0 time.windows.com
 0.0.0.0 tk2.plt.msn.com
+0.0.0.0 troubleshooting.microsoft.com
 0.0.0.0 uhf.microsoft.com
 0.0.0.0 ui.skype.com
 0.0.0.0 urs.microsoft.com

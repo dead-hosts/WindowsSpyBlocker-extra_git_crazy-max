@@ -45,24 +45,24 @@
     },
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/domains.list": {
         "apps.skype.com": {
-            "included_at_epoch": 1596992738.374546,
-            "included_at_iso": "2020-08-09T17:05:38.374546",
-            "last_retested_at_epoch": 1598549217.320661,
-            "last_retested_at_iso": "2020-08-27T17:26:57.320661",
+            "included_at_epoch": 1599412701.730351,
+            "included_at_iso": "2020-09-06T17:18:21.730351",
+            "last_retested_at_epoch": 1599412701.730351,
+            "last_retested_at_iso": "2020-09-06T17:18:21.730351",
             "status": "INACTIVE"
         },
         "cy2.settings.data.microsoft.com.akadns.net": {
-            "included_at_epoch": 1596992738.39912,
-            "included_at_iso": "2020-08-09T17:05:38.399120",
-            "last_retested_at_epoch": 1598549217.34216,
-            "last_retested_at_iso": "2020-08-27T17:26:57.342160",
+            "included_at_epoch": 1599412701.757894,
+            "included_at_iso": "2020-09-06T17:18:21.757894",
+            "last_retested_at_epoch": 1599412701.757894,
+            "last_retested_at_iso": "2020-09-06T17:18:21.757894",
             "status": "INACTIVE"
         },
         "dmd.metaservices.microsoft.com.akadns.net": {
-            "included_at_epoch": 1596992738.402361,
-            "included_at_iso": "2020-08-09T17:05:38.402361",
-            "last_retested_at_epoch": 1598549217.34593,
-            "last_retested_at_iso": "2020-08-27T17:26:57.345930",
+            "included_at_epoch": 1599412701.762747,
+            "included_at_iso": "2020-09-06T17:18:21.762747",
+            "last_retested_at_epoch": 1599412701.762747,
+            "last_retested_at_iso": "2020-09-06T17:18:21.762747",
             "status": "INACTIVE"
         },
         "feedback.microsoft-hohm.com": {
@@ -73,31 +73,31 @@
             "status": "INACTIVE"
         },
         "foodanddrink.tile.appex.bing.com": {
-            "included_at_epoch": 1596992738.419025,
-            "included_at_iso": "2020-08-09T17:05:38.419025",
-            "last_retested_at_epoch": 1598549217.361119,
-            "last_retested_at_iso": "2020-08-27T17:26:57.361119",
+            "included_at_epoch": 1599412701.781288,
+            "included_at_iso": "2020-09-06T17:18:21.781288",
+            "last_retested_at_epoch": 1599412701.781288,
+            "last_retested_at_iso": "2020-09-06T17:18:21.781288",
             "status": "INACTIVE"
         },
         "mediaredirect.microsoft.com": {
-            "included_at_epoch": 1596992738.442991,
-            "included_at_iso": "2020-08-09T17:05:38.442991",
-            "last_retested_at_epoch": 1598549217.386874,
-            "last_retested_at_iso": "2020-08-27T17:26:57.386874",
+            "included_at_epoch": 1599412701.823274,
+            "included_at_iso": "2020-09-06T17:18:21.823274",
+            "last_retested_at_epoch": 1599412701.823274,
+            "last_retested_at_iso": "2020-09-06T17:18:21.823274",
             "status": "INACTIVE"
         },
         "s.gateway.messenger.live.com": {
-            "included_at_epoch": 1596992738.528598,
-            "included_at_iso": "2020-08-09T17:05:38.528598",
-            "last_retested_at_epoch": 1598549217.468223,
-            "last_retested_at_iso": "2020-08-27T17:26:57.468223",
+            "included_at_epoch": 1599412701.92154,
+            "included_at_iso": "2020-09-06T17:18:21.921540",
+            "last_retested_at_epoch": 1599412701.92154,
+            "last_retested_at_iso": "2020-09-06T17:18:21.921540",
             "status": "INACTIVE"
         },
         "ui.skype.com": {
-            "included_at_epoch": 1596992738.560767,
-            "included_at_iso": "2020-08-09T17:05:38.560767",
-            "last_retested_at_epoch": 1598549217.498807,
-            "last_retested_at_iso": "2020-08-27T17:26:57.498807",
+            "included_at_epoch": 1599412701.951708,
+            "included_at_iso": "2020-09-06T17:18:21.951708",
+            "last_retested_at_epoch": 1599412701.951708,
+            "last_retested_at_iso": "2020-09-06T17:18:21.951708",
             "status": "INACTIVE"
         }
     }

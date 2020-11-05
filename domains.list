@@ -13,12 +13,14 @@ a-0010.a-msedge.net
 a-0011.a-msedge.net
 a-0012.a-msedge.net
 a-msedge.net
+a.config.skype.com
 activation.sls.microsoft.com
 activation-v2.sls.microsoft.com
 am3pap002.storage.live.com
 am3pap004.storage.live.com
 answers.microsoft.com
 api.bing.com
+api.cdp.microsoft.com
 api.onedrive.com
 appex-rf.msn.com
 apps.skype.com
@@ -29,6 +31,7 @@ auth.gfx.ms
 az361816.vo.msecnd.net
 az512334.vo.msecnd.net
 az725175.vo.msecnd.net
+b.config.skype.com
 bingforbusiness.com
 blob.weather.microsoft.com
 browser.events.data.microsoft.com
@@ -59,6 +62,7 @@ eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
 eu.vortex.data.microsoft.com
 eu.vortex-win.data.microsoft.com
+europe.cp.wd.microsoft.com
 europe.smartscreen-prod.microsoft.com
 events.data.microsoft.com
 evoke-windowsservices-tas.msedge.net
@@ -94,6 +98,7 @@ m.hotmail.com
 mediaredirect.microsoft.com
 mobile.events.data.microsoft.com
 msagfx.live.com
+msedge.api.cdp.microsoft.com
 msftncsi.com
 nav.smartscreen.microsoft.com
 next-services.apps.microsoft.com
@@ -160,10 +165,12 @@ onedriveclucproddm20027.blob.core.windows.net
 onedriveclucproddm20028.blob.core.windows.net
 onedriveclucproddm20029.blob.core.windows.net
 onedriveclucproddm20030.blob.core.windows.net
+oneocsp.microsoft.com
 optanon.blob.core.windows.net
 otf.msn.com
 outlook.office365.com
 packages.dmd.metaservices.microsoft.com
+pipe.skype.com
 pti.store.microsoft.com
 purchase.mp.microsoft.com
 query.prod.cms.rt.microsoft.com
@@ -171,6 +178,7 @@ r20swj13mr.microsoft.com
 register.cdpcs.microsoft.com
 ris.api.iris.microsoft.com
 roaming.officeapps.live.com
+romeccs.microsoft.com
 s.gateway.messenger.live.com
 s0.2mdn.net
 s2s.config.skype.com
@@ -223,6 +231,7 @@ wscont2.apps.microsoft.com
 wscont1.apps.microsoft.com
 www.msftconnecttest.com
 www.msftncsi.com
+www.telecommandsvc.microsoft.com
 www.windowssearch.com
 x.urs.microsoft.com
 xml.login.live.com

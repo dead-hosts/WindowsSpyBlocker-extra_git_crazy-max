@@ -1,12 +1,12 @@
 {
     "/home/travis/build/dead-hosts/WindowsSpyBlocker-extra_git_crazy-max/domains.list": {
         "base": {
-            "datetime_iso": "2020-08-04T17:06:58.733859",
-            "hash": "893f39c676d23ce22b64e0bdcaaf0326d9903497b9f393f532bc3649"
+            "datetime_iso": "2020-11-05T18:33:56.376606",
+            "hash": "ba02e1bf3a6c9a2cbb0966e3d55c23c01c247a52c3581856f5014c10"
         },
         "latest": {
-            "datetime_iso": "2020-11-03T18:39:51.078555",
-            "hash": "893f39c676d23ce22b64e0bdcaaf0326d9903497b9f393f532bc3649"
+            "datetime_iso": "2020-11-05T18:33:56.376606",
+            "hash": "ba02e1bf3a6c9a2cbb0966e3d55c23c01c247a52c3581856f5014c10"
         },
         "position": 0
     }

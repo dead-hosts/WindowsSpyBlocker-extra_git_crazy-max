@@ -149,6 +149,13 @@
             "last_retested_at_iso": "2020-11-03T18:42:51.564361",
             "status": "ACTIVE"
         },
+        "a.config.skype.com": {
+            "included_at_epoch": 1604601256.12413,
+            "included_at_iso": "2020-11-05T18:34:16.124130",
+            "last_retested_at_epoch": 1604601256.12413,
+            "last_retested_at_iso": "2020-11-05T18:34:16.124130",
+            "status": "ACTIVE"
+        },
         "activation-v2.sls.microsoft.com": {
             "included_at_epoch": 1603561510.539503,
             "included_at_iso": "2020-10-24T17:45:10.539503",
@@ -189,6 +196,13 @@
             "included_at_iso": "2020-10-24T17:45:10.544121",
             "last_retested_at_epoch": 1604428971.595174,
             "last_retested_at_iso": "2020-11-03T18:42:51.595174",
+            "status": "ACTIVE"
+        },
+        "api.cdp.microsoft.com": {
+            "included_at_epoch": 1604601256.129924,
+            "included_at_iso": "2020-11-05T18:34:16.129924",
+            "last_retested_at_epoch": 1604601256.129924,
+            "last_retested_at_iso": "2020-11-05T18:34:16.129924",
             "status": "ACTIVE"
         },
         "api.onedrive.com": {
@@ -259,6 +273,13 @@
             "included_at_iso": "2020-10-24T17:45:10.566207",
             "last_retested_at_epoch": 1604428971.632589,
             "last_retested_at_iso": "2020-11-03T18:42:51.632589",
+            "status": "ACTIVE"
+        },
+        "b.config.skype.com": {
+            "included_at_epoch": 1604601256.134512,
+            "included_at_iso": "2020-11-05T18:34:16.134512",
+            "last_retested_at_epoch": 1604601256.134512,
+            "last_retested_at_iso": "2020-11-05T18:34:16.134512",
             "status": "ACTIVE"
         },
         "bingforbusiness.com": {
@@ -469,6 +490,13 @@
             "included_at_iso": "2020-10-24T17:45:10.618464",
             "last_retested_at_epoch": 1604428971.75761,
             "last_retested_at_iso": "2020-11-03T18:42:51.757610",
+            "status": "ACTIVE"
+        },
+        "europe.cp.wd.microsoft.com": {
+            "included_at_epoch": 1604601256.139114,
+            "included_at_iso": "2020-11-05T18:34:16.139114",
+            "last_retested_at_epoch": 1604601256.139114,
+            "last_retested_at_iso": "2020-11-05T18:34:16.139114",
             "status": "ACTIVE"
         },
         "europe.smartscreen-prod.microsoft.com": {
@@ -714,6 +742,13 @@
             "included_at_iso": "2020-10-24T17:45:10.695964",
             "last_retested_at_epoch": 1604428971.910297,
             "last_retested_at_iso": "2020-11-03T18:42:51.910297",
+            "status": "ACTIVE"
+        },
+        "msedge.api.cdp.microsoft.com": {
+            "included_at_epoch": 1604601256.144004,
+            "included_at_iso": "2020-11-05T18:34:16.144004",
+            "last_retested_at_epoch": 1604601256.144004,
+            "last_retested_at_iso": "2020-11-05T18:34:16.144004",
             "status": "ACTIVE"
         },
         "msftncsi.com": {
@@ -1178,6 +1213,13 @@
             "last_retested_at_iso": "2020-11-03T18:42:52.193324",
             "status": "ACTIVE"
         },
+        "oneocsp.microsoft.com": {
+            "included_at_epoch": 1604601256.148544,
+            "included_at_iso": "2020-11-05T18:34:16.148544",
+            "last_retested_at_epoch": 1604601256.148544,
+            "last_retested_at_iso": "2020-11-05T18:34:16.148544",
+            "status": "ACTIVE"
+        },
         "optanon.blob.core.windows.net": {
             "included_at_epoch": 1603561510.923515,
             "included_at_iso": "2020-10-24T17:45:10.923515",
@@ -1204,6 +1246,13 @@
             "included_at_iso": "2020-10-24T17:45:10.931325",
             "last_retested_at_epoch": 1604428972.205825,
             "last_retested_at_iso": "2020-11-03T18:42:52.205825",
+            "status": "ACTIVE"
+        },
+        "pipe.skype.com": {
+            "included_at_epoch": 1604601256.153474,
+            "included_at_iso": "2020-11-05T18:34:16.153474",
+            "last_retested_at_epoch": 1604601256.153474,
+            "last_retested_at_iso": "2020-11-05T18:34:16.153474",
             "status": "ACTIVE"
         },
         "pti.store.microsoft.com": {
@@ -1253,6 +1302,13 @@
             "included_at_iso": "2020-10-24T17:45:10.958428",
             "last_retested_at_epoch": 1604428972.243761,
             "last_retested_at_iso": "2020-11-03T18:42:52.243761",
+            "status": "ACTIVE"
+        },
+        "romeccs.microsoft.com": {
+            "included_at_epoch": 1604601256.158003,
+            "included_at_iso": "2020-11-05T18:34:16.158003",
+            "last_retested_at_epoch": 1604601256.158003,
+            "last_retested_at_iso": "2020-11-05T18:34:16.158003",
             "status": "ACTIVE"
         },
         "s.gateway.messenger.live.com": {
@@ -1617,6 +1673,13 @@
             "included_at_iso": "2020-10-24T17:45:11.173755",
             "last_retested_at_epoch": 1604428972.465033,
             "last_retested_at_iso": "2020-11-03T18:42:52.465033",
+            "status": "ACTIVE"
+        },
+        "www.telecommandsvc.microsoft.com": {
+            "included_at_epoch": 1604601256.16251,
+            "included_at_iso": "2020-11-05T18:34:16.162510",
+            "last_retested_at_epoch": 1604601256.16251,
+            "last_retested_at_iso": "2020-11-05T18:34:16.162510",
             "status": "ACTIVE"
         },
         "www.windowssearch.com": {

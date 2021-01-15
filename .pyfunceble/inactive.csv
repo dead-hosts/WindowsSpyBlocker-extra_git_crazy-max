@@ -1,9 +1,9 @@
 idna_subject,checker_type,destination,source,tested_at
-apps.skype.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker-extra_git_crazy-max/origin.list,2021-01-13 20:29:30.153194
-cy2.settings.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker-extra_git_crazy-max/origin.list,2021-01-13 20:31:18.824644
-dmd.metaservices.microsoft.com.akadns.net,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker-extra_git_crazy-max/origin.list,2021-01-13 20:31:36.268194
-feedback.microsoft-hohm.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker-extra_git_crazy-max/origin.list,2021-01-13 20:32:24.376531
-foodanddrink.tile.appex.bing.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker-extra_git_crazy-max/origin.list,2021-01-13 20:32:41.555651
-mediaredirect.microsoft.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker-extra_git_crazy-max/origin.list,2021-01-13 20:34:19.381553
-s.gateway.messenger.live.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker-extra_git_crazy-max/origin.list,2021-01-13 20:39:38.551641
-ui.skype.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker-extra_git_crazy-max/origin.list,2021-01-13 20:41:23.464975
+apps.skype.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker-extra_git_crazy-max/origin.list,2021-01-15 00:49:32.640770
+cy2.settings.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker-extra_git_crazy-max/origin.list,2021-01-15 00:49:41.939667
+dmd.metaservices.microsoft.com.akadns.net,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker-extra_git_crazy-max/origin.list,2021-01-15 00:49:51.189726
+feedback.microsoft-hohm.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker-extra_git_crazy-max/origin.list,2021-01-15 00:50:00.120470
+foodanddrink.tile.appex.bing.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker-extra_git_crazy-max/origin.list,2021-01-15 00:50:09.339058
+mediaredirect.microsoft.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker-extra_git_crazy-max/origin.list,2021-01-15 00:50:18.804419
+s.gateway.messenger.live.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker-extra_git_crazy-max/origin.list,2021-01-15 00:50:28.330202
+ui.skype.com,AVAILABILITY,origin.list,/home/runner/work/WindowsSpyBlocker-extra_git_crazy-max/WindowsSpyBlocker-extra_git_crazy-max/origin.list,2021-01-15 00:50:37.828087

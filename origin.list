@@ -1,6 +1,6 @@
 ### WindowsSpyBlocker - Hosts extra rules
 ### License: MIT
-### Updated: 2020-11-03T20:58:00Z02:00
+### Updated: 2021-03-10T12:34:00Z02:12
 ### Donate: https://github.com/sponsors/crazy-max ; https://www.paypal.me/crazyws
 ### More info: https://github.com/crazy-max/WindowsSpyBlocker
 
@@ -33,6 +33,7 @@
 0.0.0.0 arc.msn.com
 0.0.0.0 arc.msn.com.nsatc.net
 0.0.0.0 ars.smartscreen.microsoft.com
+0.0.0.0 assuritystorage.blob.core.windows.net
 0.0.0.0 auth.gfx.ms
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
@@ -55,7 +56,9 @@
 0.0.0.0 co2.sls.microsoft.com
 0.0.0.0 config.edge.skype.com
 0.0.0.0 config.teams.microsoft.com
+0.0.0.0 continuum.dds.microsoft.com
 0.0.0.0 crl.microsoft.com
+0.0.0.0 cs.dds.microsoft.com
 0.0.0.0 cy2.settings.data.microsoft.com.akadns.net
 0.0.0.0 dev.virtualearth.net
 0.0.0.0 device.auth.xboxlive.com
@@ -91,6 +94,7 @@
 0.0.0.0 insiderservice.microsoft.com
 0.0.0.0 insideruser.microsoft.com
 0.0.0.0 ipv4.login.live.com
+0.0.0.0 kiwi.blob.core.windows.net
 0.0.0.0 licensing.mp.microsoft.com
 0.0.0.0 location-inference-westus.cloudapp.net
 0.0.0.0 login.live.com
@@ -142,6 +146,7 @@
 0.0.0.0 onedriveclucprodbn20028.blob.core.windows.net
 0.0.0.0 onedriveclucprodbn20029.blob.core.windows.net
 0.0.0.0 onedriveclucprodbn20030.blob.core.windows.net
+0.0.0.0 onedriveclucprodbn20037.blob.core.windows.net
 0.0.0.0 onedriveclucproddm20001.blob.core.windows.net
 0.0.0.0 onedriveclucproddm20002.blob.core.windows.net
 0.0.0.0 onedriveclucproddm20003.blob.core.windows.net
@@ -171,12 +176,16 @@
 0.0.0.0 onedriveclucproddm20028.blob.core.windows.net
 0.0.0.0 onedriveclucproddm20029.blob.core.windows.net
 0.0.0.0 onedriveclucproddm20030.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20036.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20037.blob.core.windows.net
+0.0.0.0 onedriveclucproddm20040.blob.core.windows.net
 0.0.0.0 oneocsp.microsoft.com
 0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 otf.msn.com
 0.0.0.0 outlook.office365.com
 0.0.0.0 packages.dmd.metaservices.microsoft.com
 0.0.0.0 pipe.skype.com
+0.0.0.0 pstrgqp01.blob.core.windows.net
 0.0.0.0 pti.store.microsoft.com
 0.0.0.0 purchase.mp.microsoft.com
 0.0.0.0 query.prod.cms.rt.microsoft.com
@@ -207,6 +216,7 @@
 0.0.0.0 t0.ssl.ak.dynamic.tiles.virtualearth.net
 0.0.0.0 t0.ssl.ak.tiles.virtualearth.net
 0.0.0.0 t.urs.microsoft.com
+0.0.0.0 thestreamstaging.blob.core.windows.net
 0.0.0.0 tile-service.weather.microsoft.com
 0.0.0.0 time.windows.com
 0.0.0.0 tk2.plt.msn.com
@@ -235,6 +245,7 @@
 0.0.0.0 wscont.apps.microsoft.com.edgesuite.net
 0.0.0.0 wscont2.apps.microsoft.com
 0.0.0.0 wscont1.apps.microsoft.com
+0.0.0.0 www.msedge.net
 0.0.0.0 www.msftconnecttest.com
 0.0.0.0 www.msftncsi.com
 0.0.0.0 www.telecommandsvc.microsoft.com

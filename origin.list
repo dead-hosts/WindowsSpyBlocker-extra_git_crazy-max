@@ -1,6 +1,6 @@
 ### WindowsSpyBlocker - Hosts extra rules
 ### License: MIT
-### Updated: 2021-03-10T12:34:00Z02:12
+### Updated: 2021-05-15T21:41:00Z02:12
 ### Donate: https://github.com/sponsors/crazy-max ; https://www.paypal.me/crazyws
 ### More info: https://github.com/crazy-max/WindowsSpyBlocker
 
@@ -190,6 +190,7 @@
 0.0.0.0 purchase.mp.microsoft.com
 0.0.0.0 query.prod.cms.rt.microsoft.com
 0.0.0.0 r20swj13mr.microsoft.com
+0.0.0.0 rcr.blob.core.windows.net
 0.0.0.0 register.cdpcs.microsoft.com
 0.0.0.0 ris.api.iris.microsoft.com
 0.0.0.0 roaming.officeapps.live.com
@@ -205,6 +206,7 @@
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 sfdataservice.microsoft.com
 0.0.0.0 share.microsoft.com
+0.0.0.0 skyapi.live.net
 0.0.0.0 static.2mdn.net
 0.0.0.0 storage.live.com
 0.0.0.0 store-images.microsoft.com
@@ -234,6 +236,7 @@
 0.0.0.0 validation.sls.microsoft.com
 0.0.0.0 validation-v2.sls.microsoft.com
 0.0.0.0 version.hybrid.api.here.com
+0.0.0.0 videomd.blob.core.windows.net
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vortex-win-sandbox.data.microsoft.com
 0.0.0.0 w.apprep.smartscreen.microsoft.com
@@ -241,6 +244,7 @@
 0.0.0.0 wdcp.microsoft.com
 0.0.0.0 wdcpalt.microsoft.com
 0.0.0.0 win10-trt.msedge.net
+0.0.0.0 wpcdn.blob.core.windows.net
 0.0.0.0 wscont.apps.microsoft.com
 0.0.0.0 wscont.apps.microsoft.com.edgesuite.net
 0.0.0.0 wscont2.apps.microsoft.com

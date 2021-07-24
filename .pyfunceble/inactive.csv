@@ -1,8 +1,8 @@
 idna_subject,checker_type,destination,tested_at
-ui.skype.com,AVAILABILITY,origin.list,2021-07-23 01:24:26.625707
 apps.skype.com,AVAILABILITY,origin.list,2021-07-23 17:15:02.361535
 cy2.settings.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,2021-07-23 17:15:08.987225
 dmd.metaservices.microsoft.com.akadns.net,AVAILABILITY,origin.list,2021-07-23 17:15:15.699719
 foodanddrink.tile.appex.bing.com,AVAILABILITY,origin.list,2021-07-23 17:15:22.213229
 mediaredirect.microsoft.com,AVAILABILITY,origin.list,2021-07-23 17:15:28.833524
 s.gateway.messenger.live.com,AVAILABILITY,origin.list,2021-07-23 17:15:35.319480
+ui.skype.com,AVAILABILITY,origin.list,2021-07-24 05:13:51.661882

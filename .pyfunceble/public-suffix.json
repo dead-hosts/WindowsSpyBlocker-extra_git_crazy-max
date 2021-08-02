@@ -1812,6 +1812,9 @@
         "gov.gd",
         "nom.gd"
     ],
+    "gdn": [
+        "cnpy.gdn"
+    ],
     "ge": [
         "com.ge",
         "edu.ge",
@@ -6888,7 +6891,6 @@
         "cloud.fedoraproject.org",
         "cloudns.org",
         "cn.eu.org",
-        "cnpy.gdn",
         "collegefan.org",
         "couchpotatofries.org",
         "cy.eu.org",

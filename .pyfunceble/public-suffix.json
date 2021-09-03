@@ -1929,6 +1929,7 @@
         "idv.hk",
         "inc.hk",
         "ltd.hk",
+        "ms.it",
         "net.hk",
         "org.hk",
         "secaas.hk",
@@ -2465,7 +2466,6 @@
         "monzabrianza.it",
         "monzaebrianza.it",
         "monzaedellabrianza.it",
-        "ms.it",
         "mt.it",
         "myspreadshop.it",
         "na.it",
@@ -4514,7 +4514,6 @@
         "山梨.jp",
         "岐阜.jp",
         "岡山.jp",
-        "岩手.jp",
         "島根.jp",
         "広島.jp",
         "徳島.jp",
@@ -4851,7 +4850,6 @@
         "mcdir.me",
         "mcpe.me",
         "myds.me",
-        "nctu.me",
         "net.me",
         "nohost.me",
         "noip.me",
@@ -7513,7 +7511,8 @@
         "development.run",
         "hs.run",
         "ravendb.run",
-        "repl.run"
+        "repl.run",
+        "servers.run"
     ],
     "rw": [
         "ac.rw",

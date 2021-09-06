@@ -5674,6 +5674,7 @@
         "from-ny.net",
         "gb.net",
         "gets-it.net",
+        "global.prod.fastly.net",
         "global.ssl.fastly.net",
         "ham-radio-op.net",
         "hicam.net",
@@ -6789,7 +6790,6 @@
     ],
     "nu": [
         "enterprisecloud.nu",
-        "global.prod.fastly.net",
         "merseine.nu",
         "mine.nu",
         "shacknet.nu"

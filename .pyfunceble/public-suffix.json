@@ -898,7 +898,6 @@
         "sn.cn",
         "sx.cn",
         "tj.cn",
-        "trentino-sudtirol.it",
         "tw.cn",
         "xj.cn",
         "xn--55qx5d.cn",
@@ -1017,6 +1016,7 @@
         "dev-myqnapcloud.com",
         "dev.adobeaemcloud.com",
         "devcdnaccesso.com",
+        "digitaloceanspaces.com",
         "ditchyourip.com",
         "dnsalias.com",
         "dnsdojo.com",
@@ -2595,6 +2595,7 @@
         "trentino-s-tirol.it",
         "trentino-stirol.it",
         "trentino-sud-tirol.it",
+        "trentino-sudtirol.it",
         "trentino-sued-tirol.it",
         "trentino-suedtirol.it",
         "trentino-süd-tirol.it",
@@ -7884,10 +7885,7 @@
         "org.tm"
     ],
     "tn": [
-        "agrinet.tn",
         "com.tn",
-        "defense.tn",
-        "edunet.tn",
         "ens.tn",
         "fin.tn",
         "gov.tn",
@@ -7900,11 +7898,7 @@
         "orangecloud.tn",
         "org.tn",
         "perso.tn",
-        "rnrt.tn",
-        "rns.tn",
-        "rnu.tn",
-        "tourism.tn",
-        "turen.tn"
+        "tourism.tn"
     ],
     "to": [
         "611.to",

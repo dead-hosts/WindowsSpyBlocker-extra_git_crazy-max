@@ -281,3 +281,11 @@ wpcdn.blob.core.windows.net                                                     
 wscont.apps.microsoft.com                                                                            ACTIVE      COLLECTION Unknown           301        AVAILABILITY 
 wscont.apps.microsoft.com.edgesuite.net                                                              ACTIVE      COLLECTION Unknown           Unknown    AVAILABILITY 
 wscont2.apps.microsoft.com                                                                           ACTIVE      COLLECTION Unknown           403        AVAILABILITY 
+wscont1.apps.microsoft.com                                                                           ACTIVE      COLLECTION Unknown           403        AVAILABILITY 
+www.msedge.net                                                                                       ACTIVE      COLLECTION Unknown           Unknown    AVAILABILITY 
+www.msftconnecttest.com                                                                              ACTIVE      COLLECTION Unknown           404        AVAILABILITY 
+www.msftncsi.com                                                                                     ACTIVE      COLLECTION Unknown           404        AVAILABILITY 
+www.telecommandsvc.microsoft.com                                                                     ACTIVE      COLLECTION Unknown           Unknown    AVAILABILITY 
+www.windowssearch.com                                                                                ACTIVE      COLLECTION Unknown           301        AVAILABILITY 
+x.urs.microsoft.com                                                                                  ACTIVE      COLLECTION Unknown           Unknown    AVAILABILITY 
+xml.login.live.com                                                                                   ACTIVE      COLLECTION Unknown           Unknown    AVAILABILITY 

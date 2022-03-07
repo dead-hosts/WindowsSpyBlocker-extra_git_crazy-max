@@ -1,4 +1,7 @@
-subject,idna_subject,expiration_date,epoch
-a-msedge.net,a-msedge.net,06-mar-2021,1614988800.0
-bingforbusiness.com,bingforbusiness.com,12-mar-2021,1615507200.0
-msftncsi.com,msftncsi.com,10-nov-2021,1636502400.0
+subject,idna_subject,expiration_date,epoch,registrar
+a-msedge.net,a-msedge.net,06-mar-2021,1614988800.0,
+a-msedge.net,a-msedge.net,06-mar-2021,1614988800.0,
+bingforbusiness.com,bingforbusiness.com,12-mar-2021,1615507200.0,
+bingforbusiness.com,bingforbusiness.com,12-mar-2021,1615507200.0,
+msftncsi.com,msftncsi.com,10-nov-2021,1636502400.0,
+msftncsi.com,msftncsi.com,10-nov-2021,1636502400.0,

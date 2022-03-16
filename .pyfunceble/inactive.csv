@@ -1,10 +1,10 @@
 idna_subject,checker_type,destination,tested_at
-staging.to-do.officeppe.com,AVAILABILITY,origin.list,2022-03-14 05:46:44.248634
-staging.to-do.microsoft.com,AVAILABILITY,origin.list,2022-03-14 05:46:45.558450
-dmd.metaservices.microsoft.com.akadns.net,AVAILABILITY,origin.list,2022-03-14 05:46:46.238099
-foodanddrink.tile.appex.bing.com,AVAILABILITY,origin.list,2022-03-14 05:46:47.365479
-s.gateway.messenger.live.com,AVAILABILITY,origin.list,2022-03-14 05:46:48.684154
-apps.skype.com,AVAILABILITY,origin.list,2022-03-14 05:46:48.720375
-ui.skype.com,AVAILABILITY,origin.list,2022-03-14 05:46:49.047671
-cy2.settings.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,2022-03-14 05:46:50.776884
-mediaredirect.microsoft.com,AVAILABILITY,origin.list,2022-03-14 05:46:50.939714
+staging.to-do.officeppe.com,AVAILABILITY,origin.list,2022-03-16 05:14:57.552370
+staging.to-do.microsoft.com,AVAILABILITY,origin.list,2022-03-16 05:14:58.071122
+dmd.metaservices.microsoft.com.akadns.net,AVAILABILITY,origin.list,2022-03-16 05:14:58.567171
+foodanddrink.tile.appex.bing.com,AVAILABILITY,origin.list,2022-03-16 05:14:58.964544
+s.gateway.messenger.live.com,AVAILABILITY,origin.list,2022-03-16 05:14:59.465045
+apps.skype.com,AVAILABILITY,origin.list,2022-03-16 05:15:00.033060
+cy2.settings.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,2022-03-16 05:15:00.620666
+ui.skype.com,AVAILABILITY,origin.list,2022-03-16 05:15:00.644815
+mediaredirect.microsoft.com,AVAILABILITY,origin.list,2022-03-16 05:15:00.981689

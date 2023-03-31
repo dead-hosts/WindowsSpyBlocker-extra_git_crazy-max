@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-edgetipscdn.microsoft.com,AVAILABILITY,origin.list,2023-03-29 05:12:03.706147
-pti.store.microsoft.com,AVAILABILITY,origin.list,2023-03-29 05:12:04.207975
-hel01r3.msedge.net,AVAILABILITY,origin.list,2023-03-29 05:12:05.228434
 appex-rf.msn.com,AVAILABILITY,origin.list,2023-03-30 05:12:26.115177
 by3301-a.1drv.com,AVAILABILITY,origin.list,2023-03-30 05:12:26.552368
 bl3301-a.1drv.com,AVAILABILITY,origin.list,2023-03-30 05:12:26.893141
@@ -32,3 +29,6 @@ s.gateway.messenger.live.com,AVAILABILITY,origin.list,2023-03-30 05:12:31.307890
 reactiveassistanceinstance.cognitiveservices.azure.com,AVAILABILITY,origin.list,2023-03-30 05:12:31.392429
 dmd.metaservices.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-30 05:12:32.025029
 cy2.settings.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-03-30 05:12:32.141861
+edgetipscdn.microsoft.com,AVAILABILITY,origin.list,2023-03-31 05:11:56.371301
+pti.store.microsoft.com,AVAILABILITY,origin.list,2023-03-31 05:11:56.861780
+hel01r3.msedge.net,AVAILABILITY,origin.list,2023-03-31 05:11:57.465299

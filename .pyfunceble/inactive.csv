@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-edgetipscdn.microsoft.com,AVAILABILITY,origin.list,2023-04-26 05:11:47.513915
-pti.store.microsoft.com,AVAILABILITY,origin.list,2023-04-26 05:11:47.939271
 wpcdn.blob.core.windows.net,AVAILABILITY,origin.list,2023-04-27 05:12:34.287249
 by3301-a.1drv.com,AVAILABILITY,origin.list,2023-04-27 05:12:34.745303
 appex-rf.msn.com,AVAILABILITY,origin.list,2023-04-27 05:12:34.941293
@@ -32,3 +30,5 @@ reactiveassistanceinstance.cognitiveservices.azure.com,AVAILABILITY,origin.list,
 s.gateway.messenger.live.com,AVAILABILITY,origin.list,2023-04-27 05:12:39.297861
 dmd.metaservices.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-04-27 05:12:39.687524
 cy2.settings.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-04-27 05:12:39.918771
+edgetipscdn.microsoft.com,AVAILABILITY,origin.list,2023-04-28 05:12:22.143256
+pti.store.microsoft.com,AVAILABILITY,origin.list,2023-04-28 05:12:22.672095

@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-i-am3p-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-15 05:12:24.518077
-i-by3p-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-15 05:12:25.405246
-i-bl6p-cor002.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-15 05:12:25.883784
-i-by3p-cor002.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-15 05:12:26.146794
-i-bl6p-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-15 05:12:26.203552
-i-sn3p-cor002.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-15 05:12:26.475157
-i-bn3p-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-15 05:12:26.899836
-i-db3p-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-15 05:12:27.167771
-pti.store.microsoft.com,AVAILABILITY,origin.list,2023-06-15 05:12:28.036175
-i-sn3p-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-15 05:12:28.599005
-edgetipscdn.microsoft.com,AVAILABILITY,origin.list,2023-06-15 05:12:29.225372
 appex-rf.msn.com,AVAILABILITY,origin.list,2023-06-16 05:13:01.272178
 by3301-a.1drv.com,AVAILABILITY,origin.list,2023-06-16 05:13:02.852910
 wpcdn.blob.core.windows.net,AVAILABILITY,origin.list,2023-06-16 05:13:03.130269
@@ -41,3 +30,14 @@ apps.skype.com,AVAILABILITY,origin.list,2023-06-16 05:13:13.215673
 s.gateway.messenger.live.com,AVAILABILITY,origin.list,2023-06-16 05:13:13.256144
 dmd.metaservices.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-16 05:13:13.511315
 cy2.settings.data.microsoft.com.akadns.net,AVAILABILITY,origin.list,2023-06-16 05:13:14.266883
+i-am3p-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-17 05:12:14.019547
+i-by3p-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-17 05:12:14.542928
+i-by3p-cor002.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-17 05:12:15.618898
+i-bl6p-cor002.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-17 05:12:15.708769
+i-bl6p-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-17 05:12:16.372627
+i-sn3p-cor002.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-17 05:12:16.982775
+i-bn3p-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-17 05:12:17.402723
+i-db3p-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-17 05:12:17.812295
+pti.store.microsoft.com,AVAILABILITY,origin.list,2023-06-17 05:12:18.072948
+i-sn3p-cor001.api.p001.1drv.com,AVAILABILITY,origin.list,2023-06-17 05:12:18.550949
+edgetipscdn.microsoft.com,AVAILABILITY,origin.list,2023-06-17 05:12:19.582428

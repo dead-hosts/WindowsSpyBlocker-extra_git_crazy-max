@@ -17,10 +17,10 @@
         "@crazy-max"
     ],
     "platform_container_id": null,
+    "platform_container_name": "windowsspyblocker-extra_git_crazy-max",
     "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
     "platform_optout": false,
     "platform_remote_source_id": null,
-    "platform_shortname": "windowsspyblocker-extra_git_crazy-max",
     "raw_link": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/extra.txt",
     "repo": "dead-hosts/WindowsSpyBlocker-extra_git_crazy-max",
     "start_datetime": "2020-12-27T18:16:51.215597",
